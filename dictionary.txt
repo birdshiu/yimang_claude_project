@@ -20,6 +20,8 @@ Shuanshuan:軒軒
 Heng:恆
 Liwen:李文
 Lear:李耳
+Fuxi:伏羲
+Nuwa:女媧
 Jiequan:截全
 Solarians:太陽人
 solarian:太陽人
@@ -32,7 +34,7 @@ Eternal Cauldron Project:永生爐計畫
 Apemen:猿人
 transmutated:基因改造的
 Transmutation:基因改造
-Qi Blade:御氣術
+Qi-Blade:御氣術
 Tailsman:符咒
 Jade:玉石
 Ancient Kunlun Era:上古崑崙時代
@@ -57,10 +59,13 @@ Peach Blossom Village:桃花村
 Four Seasons Pavilion:四季閣
 Eternal Cauldron Project:永生爐計畫
 Soulscape System:魂境系統
-Sol Seal:王
+Sol Seal:王璽
 Taopun:道龐克
 Tiandao Council:天道議會
 Vital Sanctum:靈樞
 Tao Fruit:道果
 Haotian Sphere:昊天球
 Jiangshi:殭屍
+Dusk Guardians:守墓人
+mutants:異變體
+Rhizomatic Arrow:元能箭
