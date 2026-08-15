@@ -1,0 +1,1 @@
+The Eternal Cauldron Project is a project that was initially devised by Yi during the Tianhuo pandemic crisis. The project was hatched as a desperate effort to buy more time to develop a cure for the virus before all solarians perished to its effects. The foundation of this project was two major developments: the Soulscape system and the interstellar ark New Kunlun.

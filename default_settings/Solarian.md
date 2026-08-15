@@ -1,0 +1,5 @@
+Solarians are a species of bipedal aliens with feline-like features and are the main non-human species in Nine Sols. Many major characters, including Yi and the Sols, are solarians.
+
+They originate from the planet Penglai and have an extremely advanced level of technology based on rhizomatic energy (also known as Qi) and widely practice gene modification, also known as Transmutation.
+
+Some solarians enhance their bodies with implants or gene modification, such as people of Yumin Kingdom, who are able to handle low-altitude flight, with devices that allow it. Some solarians share a feature of red accents in the bottom part of their eyes (Liwen, Lear and Heng) and naturally resonate with Primordial Roots, better understanding the world spiritually. Some of the ancient solarians from Kunlun tribe are rumored to have supernatural abilities, such as Ji's divination, biological immortality and age body shifting.

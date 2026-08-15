@@ -1,0 +1,7 @@
+Apemen is the Solarian name for humans. They have been first sighted from Haotian Sphere deep-space telescope and its reports showed primitive, but highly intelligent, humanoid creatures.
+
+Since the Soulscape system required an unprecedented amount of computing power to generate virtual worlds and it was one of core parts of Eternal Cauldron Project proposed by Yi to deal with Tianhuo crisis, the brains of apemen connected in series were planned to be used as an immense biological computer.
+
+After New Kunlun Island warped to the Solar system, an unknown number of apemen were abducted from Pale Blue Planet and placed within specially designated livestock pen with virtual environment.
+
+They were mentioned to have been genetically modified, but not how exactly. Since Eternal Cauldron Project needed a good-developed intelligent brains, it'd likely make sense if they targetted faster learning and thinking, better memory, but it also could be that Sols transmutated them for other needs. Their hair was already white prior to transmutation in Jiequan's memory when they were delivered to his personal lab to be experimented on. Their hands are hidden in the image, but at the time of game events they share same four fingered hands as solarians.
