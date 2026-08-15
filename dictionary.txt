@@ -25,6 +25,7 @@ Nuwa:女媧
 Jiequan:截全
 Solarian:太陽人
 Nine Sols:九日
+Shennong:神農
 Sol:太陽
 Tianhuo:天禍
 Pale Blue Planet:蒼藍星
@@ -61,6 +62,7 @@ Soulscape System:魂境系統
 Sol Seal:王璽
 Taopun:道龐克
 Tiandao Council:天道議會
+Tiandao Academy:天道學院
 Vital Sanctum:靈樞
 Tao Fruit:道果
 Greater Tao Fruit:大道果
@@ -79,3 +81,11 @@ Grotto of Scriptures:道教石窟
 Xiaohe:小何
 Central Core:新崑崙運算場
 Shanhai 9000：山海9000
+Power Reservoir:蓄能井
+Baigong:百工
+Livestock Zone:牧場
+Abacus:算盤
+General Yingzhao:勇獸將英招
+Yingzhao:英招
+Radiant Pagoda:玲瓏寶塔
+Cloud Piercer Arrow:穿雲箭
