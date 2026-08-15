@@ -47,6 +47,7 @@ The Primordial Roots:古樹
 Primordial Root Node:古樹節點
 Crimson Hibiscus:大紅槿
 Azure Sand:蒼砂
+Azure Bow:蒼弓
 Dark Steel:玄鐵
 Donghuang Bell:東皇鐘
 Rhizomatic energy:元能
