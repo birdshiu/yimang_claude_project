@@ -14,6 +14,6 @@ During the night of the ceremony, Yi joins the crowd and watches as the three ch
 
 Later, when Yi reaches the Four Seasons Pavilion, Shuanshuan manages to catch up to him, where Yi allows him to take up residence for the time being and appoints Abacus to watch over him while he's gone.
 
-Over the course of the game, Yi can give Shuanshuan items, which serve to deepen his understanding of the Solarian world and teach Shuanshuan about their culture. Creating a closer bond between Yi and Shuanshuan by giving him artifacts and interacting with him in cutscenes is required to complete the Apemen Questline and is one of requirements towards the True Ending.
+Over the course of the game, Yi can give Shuanshuan items, which serve to deepen his understanding of the Solarian world and teach Shuanshuan about their culture. Creating a closer bond between Yi and Shuanshuan by giving him artifacts and interacting with him in cutscenes is required to complete the Apemen Questline and is one of requirements towards the True Ending(Shooting Star ending).
 
-In the True Ending, Shuanshuan is left to be a pioneer of the scientific knowledge for humanity as they return to earth. In the Normal Ending, it is unknown what happens to him beyond becoming Yi's assistant.
+In the True Ending(Shooting Star ending), Shuanshuan is left to be a pioneer of the scientific knowledge for humanity as they return to earth. In the Normal Ending(Home, Sweet Home ending), it is unknown what happens to him beyond becoming Yi's assistant.

@@ -69,3 +69,5 @@ Jiangshi:殭屍
 Dusk Guardians:守墓人
 mutants:異變體
 Rhizomatic Arrow:元能箭
+Home, Sweet Home ending:故土結局
+Shooting Star ending:射日結局
