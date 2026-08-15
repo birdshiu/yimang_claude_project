@@ -23,10 +23,8 @@ Lear:李耳
 Fuxi:伏羲
 Nuwa:女媧
 Jiequan:截全
-Solarians:太陽人
-solarian:太陽人
+Solarian:太陽人
 Nine Sols:九日
-Sols:太陽
 Sol:太陽
 Tianhuo:天禍
 Pale Blue Planet:蒼藍星
@@ -65,10 +63,19 @@ Taopun:道龐克
 Tiandao Council:天道議會
 Vital Sanctum:靈樞
 Tao Fruit:道果
+Greater Tao Fruit:大道果
 Haotian Sphere:昊天球
 Jiangshi:殭屍
 Dusk Guardians:守墓人
 mutants:異變體
 Rhizomatic Arrow:元能箭
-Home, Sweet Home ending:故土結局
-Shooting Star ending:射日結局
+Home, Sweet Home:故土
+Shooting Star:射日
+optberry:眼藕
+Galactic Dock:星河渡口
+Empyrean District:天人區
+Lake Yaochi:瑤池
+Grotto of Scriptures:道教石窟
+Xiaohe:小何
+Central Core:新崑崙運算場
+Shanhai 9000：山海9000
