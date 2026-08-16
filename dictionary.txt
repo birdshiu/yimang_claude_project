@@ -18,6 +18,7 @@ Kua Fu:夸伏
 Eigong:易公
 Shuanshuan:軒軒
 Heng:恆
+Yanlao:奄老
 Liwen:李文
 Lear:李耳
 Fuxi:伏羲
@@ -91,3 +92,9 @@ Radiant Pagoda:玲瓏寶塔
 Cloud Piercer Arrow:穿雲箭
 Apemen Facility:猿人處理場
 Shaman:卜巫
+Hanfu:漢服
+Fuchen:彿塵
+Feng Clan:風氏
+Boundless Repository:天倉地庫
+Yangu Hall:延古堂
+Xingtian:刑天
