@@ -45,6 +45,7 @@ Taoism:道教
 Fusang:扶桑
 The Primordial Roots:古樹
 Primordial Root Node:古樹節點
+Root Node:古樹節點
 Crimson Hibiscus:大紅槿
 Azure Sand:蒼砂
 Azure Bow:蒼弓
@@ -98,3 +99,8 @@ Feng Clan:風氏
 Boundless Repository:天倉地庫
 Yangu Hall:延古堂
 Xingtian:刑天
+Transmutation Factory:煉丹工廠
+Jietong:截通
+Kanghui:康回
+95th Livestock Pen:95號牧場
+Shengwu Hall:繩武堂
