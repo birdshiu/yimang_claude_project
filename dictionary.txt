@@ -109,3 +109,4 @@ Limitless Realm:無極之地
 Ancient Stone Pillar:太古石柱
 Fangshi Guild:方士團
 Fangshi:方士
+Ji:姬
