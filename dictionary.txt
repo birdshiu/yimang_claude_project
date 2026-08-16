@@ -89,3 +89,5 @@ General Yingzhao:勇獸將英招
 Yingzhao:英招
 Radiant Pagoda:玲瓏寶塔
 Cloud Piercer Arrow:穿雲箭
+Apemen Facility:猿人處理場
+Shaman:卜巫
