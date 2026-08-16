@@ -113,3 +113,6 @@ Ji:姬
 Nobility Hall:貴人殿
 Super Mutant Buster:異變體破壞王
 Agrarian Hall:弘農堂
+Chiyou:蚩尤
+Jin:金
+Thunderburst Bombs:破雷彈
