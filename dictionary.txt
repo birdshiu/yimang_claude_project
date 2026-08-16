@@ -110,3 +110,5 @@ Ancient Stone Pillar:太古石柱
 Fangshi Guild:方士團
 Fangshi:方士
 Ji:姬
+Nobility Hall:貴人殿
+Super Mutant Buster:異變體破壞王
