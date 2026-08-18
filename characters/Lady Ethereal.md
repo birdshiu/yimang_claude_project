@@ -186,18 +186,6 @@ Retains same attacks from phases one and two, with addition of:
 - Two Lady Ethereal clones will spawn on either side of Yi, one after the other, and Tai Chi dash horizontally. Lady Ethereal will spawn on the opposite side of the last clone, Tai Chi dashing horizontally.
 - Real Lady Ethereal will hover high above ground, two clones will Tai Chi dash from both sides before the real Lady Ethereal does a big swoop.
 
-## Dialogue
-
-<tabber> \|-\| Hide =
-
-\|-\| Dream =
-
-\|-\| Bossfight =
-
-\|-\| Council Proceedings =
-
-</tabber>
-
 ## Trivia
 
 ### Lore
