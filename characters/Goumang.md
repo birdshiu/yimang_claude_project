@@ -5,7 +5,7 @@ revision: 2026-07-24T18:16:06Z
 license: CC BY-SA (wiki.gg)
 ---
 
-**Goumang** (traditional Chinese: 勾芒; pinyin: *Gōumáng*) is one of the Sols of the Tiandao Council. She holds the Sol Seal of Equality.
+One of the Ten Sols in the Council and responsible for managing agriculture on New Kunlun. **Goumang** (traditional Chinese: 勾芒; pinyin: *Gōumáng*) is one of the Sols of the Tiandao Council. She holds the Sol Seal of Equality.
 
 ## Appearance
 
@@ -110,28 +110,175 @@ Shinue (Small Jiangshi) uses next attacks:
 - Downwards slam followed by a stab
 
 ## Dialogue
+### First Encounter
+Upon Yi falling for her elevator trap in the Grotto of Scriptures (Entry).
 
-<tabber> \|-\| Hide = \|-\| First Encounter = Upon falling for her elevator trap in the [Grotto of Scriptures (Entry)](Grotto_of_Scriptures_(Entry) "wikilink"): { class="wikitable" - ! Character !! Dialogue Goumang Yi Goumang Yi Goumang Shiqiu Awake Shinue Awake Yi Goumang Yi Goumang Goumang }
+> Goumang:
+> Oooh, look who decided to show up after all this time.
+> Did your astounding intelligence lead you into this trap? This is quite eye-opening.
+> 
+> Yi:
+> I could sense it from afar.
+> 
+> Goumang:
+> Hmph. As stubborn as ever, I see.
+> I've got to give it to you, though. It takes courage to storm into my territory all on your own.
+> And you only just came back from the dead, right?
+> I figured anyone who got another shot at life would know better than to intrude on my farmlands.
+> 
+> Yi:
+> I don't intend to die in these barren fields.
+> 
+> Goumang:
+> Barren, you say? Then let us fertilize it with some fresh organic remains.
+> We farmers are naturally thrifty. Nothing goes to waste, not even a skinny little mouse.
+> Rise and shine, my beasts! There's work to be done!
+> 
+> Shiqiu:
+> Ma... mama...
+> 
+> Shinue:
+> Mama... It's... dark... So scared...
+> 
+> Yi:
+> Jiangshi Soldiers...? This technology was banned centuries ago.
+> You've gone so far as to modify the apemen?
+> 
+> Goumang:
+> What's wrong with putting everything to good use?
+> The opportunity to serve me beyond death is a special privilege I bestow.
+> I read the system report the moment I woke up. You apparently made a mess out of the livestock area.
+> I was there when we captured apemen on the Pale Blue Planet. They're obedient creatures that can be quite cute once tamed.
+> But as pets or as livestock, in the end, they're just tools.
+> Have you begun to think of yourself as one of those beasts now that you've mingled with them in their cage?
+> 
+> Yi:
+> Enough. Are you here to lecture me or kill me?
+> 
+> Goumang:
+> Oh, right! Thanks for the reminder. I'd better send you on your way.
+> I've got a field inspection to conduct later today.
+> Bring him down with all your might, my beasts! I'll reward you with some rice afterwards.
+> 
+> (Shiqiu and Shinue frantically pound on the elevator trap)
+> 
+> Goumang
+> No! Wait, this isn't part of the plan... That's not what I meant when I said "Bring him down!"
+> Damn it, this is a complete disaster! You imbeciles!
 
-\|-\| Agrarian Hall = Upon confronting Goumang in Agrarian Hall, before the bossfight: { class="wikitable" - ! Character !! Dialogue Goumang Yi Goumang Yi Goumang -
+### Agrarian Hall
+Upon Yi confronting Goumang in Agrarian Hall, before the bossfight.
 
-`style="text-align:center;" colspan=2  `<small>`Choice 1`</small>
+> Goumang:
+> Why the hold up? Did you stop to smell the roses? I thought you of all people didn't like to waste time...
+> But enough about that. I knew this day would come... The others may not have noticed, but when I first laid eyes on you, I knew what you would become.
+> Ideologically bankrupt, impulsive, and self-righteous... It was only a matter of time before you turned against our noble endeavor.
+> 
+> Yi:
+> Was upending the truth part of this endeavor?
+> Does that make it right to manipulate and deceive the entire world?!
+> 
+> Goumang:
+> You see, that is the difference between you and me.
+> Did you know that farmers in the Tianshan Mountains spent thousands of years domesticating and genetically modifying these delicious optoberries?
+> Evolutionary pressures pushed wild optoberries to the brink of extinction, but we saved it.
+> To put it another way, the entire species was saved through our intervention.
+> 
+> Yi:
+> And your point is?
+> 
+> Goumang:
+> Don't you understand? Optoberries, apemen, even our fellow solarians...
+> ...they all need greenhouses and incubators.
+> Sacrificing a little freedom and yielding to your superiors is the path to a perfect society.
+> What's wrong with a little lie? The truth is, the weak fear the truth and cannot make choices for themselves.
 
-Yi Goumang -
+Dialogue Choice 1
+> Yi:
+> What gives you the right to make these choices for them?
+> 
+> Goumang:
+> The strength that I wield upon these reins of power, that's what!
 
-`style="text-align:center;" colspan=2  `<small>`Choice 2`</small>
+Dialogue Choice 2
+> Yi:
+> You're only dominating others for your own pleasure.
+> 
+> Goumang:
+> Dominating? No, I'm protecting.
 
-Yi Goumang -
+After Choice
 
-`style="text-align:center;" colspan=2  `<small>`After Choice`</small>
+> Goumang:
+> Those that are capable create order. That is my duty as a Sol.
+> If only everything went according to plan... my plan...
+>
+> Yi:
+> Doesn't it get tiring? Let it go already.
+> 
+> Goumang:
+> Silence!
+> You messed everything up... You ruined my immaculate plans!
+> If Eigong had chosen me back then, we wouldn't be in this situation!
+> Ah, forget it! All this talk is going nowhere.
+> You know, I'm actually grateful for your disturbance. It's not every day that one gets to swat a particularly pernicious pest like you.
+> Law of the jungle, survival of the fittest. Let's settle this in the most primitive way.
+>
+> Golden Hoops:	Control System Activated
+> 
+> Goumang:
+> Beasts, heed my orders.
+> This time, exterminate him for good!
 
-Goumang Yi Goumang Control System Activated Goumang }
+After Yi defeat Goumang
 
-After defeat: { class="wikitable" - ! Character !! Dialogue Control Relinquished Shinue Awake Shiqiu Awake Goumang Defeat Yi Goumang Defeat Shiqiu Awake Yi Shinue Awake Yi Brain Wave Control Activated Goumang Defeat Shiqiu Awake Shinue Awake }
-
-\|-\| Council Proceedings =
-
-</tabber>
+> Golden Hoops:
+> Control Relinquished
+> 
+> Shinue:
+> Mama...?
+> 
+> Shiqiu:
+> Ma... ma...
+> 
+> Goumang:
+> Damn it all...
+> I had everything planned out... After Eigong found the cure, I was going to rebuild Penglai...!
+> Sowing, plowing, irrigating, fertilizing... It would take less than a millennium to reestablish a livable ecosystem for our solarian kin...!
+> We were supposed to survive... Why did it end up like this...?
+> What do you hope to achieve? Can you even hope to achieve anything?
+> 
+> Yi:
+> Those are questions you should be asking yourself.
+> 
+> Goumang:
+> What are you staring at? Kill me...
+> 
+> Shiqiu:
+> Mama...
+> 
+> Yi:
+> No.
+> 
+> Shinue:
+> Mama...
+> 
+> Yi:
+> I've been truly enlightened by your fascinating ideology.
+> To think all that's needed is just the sacrifice of a little freedom...
+> Time to practice what you preach.
+>
+> Golden Hoop:
+> Brain Wave Control Activated
+> 
+> Goumang:
+> Da.$@$!@.Damnn...$%&....you%$
+> 
+> Shiqiu:
+> Ma... Mama...?
+> 
+> Shinue:
+> Mama... What should we do next?
 
 ## Trivia
 

@@ -118,3 +118,5 @@ Jin:金
 Thunderburst Bombs:破雷彈
 Chien:小倩
 Fengxian:鳳仙
+Shinue:屍虐
+Shiqiu:屍窮
