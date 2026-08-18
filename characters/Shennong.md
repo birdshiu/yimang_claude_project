@@ -27,7 +27,7 @@ When Yi met Shennong again while exploring New Kunlun, Shennong was collapsed an
 
 #### Sidequest: The Calvary's Here
 
-When Yi had been defeated by J and imprisoned, escaped and returned, Shennong is announcing that the Geno-Army sent by Jiequan had invaded and destroyed the Peach Blossom Village and taken all the villagers, and he will go to rescue them despite Shuanshuan's dissuasion. Yi promises to save them for Shuanshuan, Shennong gives Yi the Abandoned Mines Access Token of Guru, his former teacher, and tells him there is a shortcut to the forbidden forest in the [Abandoned Mine](Abandoned_Mines_(Zone) "wikilink").
+When Yi had been defeated by J and imprisoned, escaped and returned, Shennong is announcing that the Geno-Army sent by Jiequan had invaded and destroyed the Peach Blossom Village and taken all the villagers, and he will go to rescue them despite Shuanshuan's dissuasion. Yi promises to save them for Shuanshuan, Shennong gives Yi the Abandoned Mines Access Token of Guru, his former teacher, and tells him there is a shortcut to the forbidden forest in the Abandoned Mine
 
 Entering the Peach Blossom Village through the forbidden forest, Yi defeats all of the Geno-Army that was destroying the village and rescues the villagers were detained in Galactic Dock, but Shaman tries to rely again on the villagers by inciting them to serve Yi as the 'Divine One'. Shennong insists on the villagers to face reality and find a way to survive together, but citing divine's protection, resents the shaman's attitude to turn a blind eye to the reality and declares that they will no longer be involved in their crisis.
 

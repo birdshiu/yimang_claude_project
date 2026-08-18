@@ -47,7 +47,7 @@ Chiyou will provide certain items for free if Yi completes small side quests or 
 
 The conclusion of Chiyou's plot line is unlocked by giving him the Firestorm Ring, and can be accessed in the top left of the Tiandao Research Center after the Point of No Return.
 
-- Upon buying more than 70% of his items (which equals approximately all his stock before Prison escape, he will ask Yi for the Soul-Severing Blade, which can then be given to him.
+- Upon buying more than 70% of his items which equals approximately all his stock before Prison escape, he will ask Yi for the Soul-Severing Blade, which can then be given to him.
 - Upon buying all his items, he will further ask Yi for the Firestorm Ring, which can then be given to him.
 
 

@@ -19,9 +19,9 @@ The Shaman is an old woman, with olive skin and hunched posture. She wears the p
 <!-- -->
 
 - The "Guru" corresponds to "恩公" - benefactor. The "公" in this context is an honorific name for a person in Chinese, regardless of gender. Guru was a mentor to Shennong.
-- [Wu (巫)](wp:Wu_(shaman) "wikilink") is a Chinese term translating to "shaman" or "sorcerer", originally the practitioners of Chinese shamanism or "Wuism" (巫教).
+- Wu (巫) is a Chinese term translating to "shaman" or "sorcerer", originally the practitioners of Chinese shamanism or "Wuism" (巫教).
 - The masks may be inspired by Sanxingdui (三星堆, 'Three Star Mound') is an archaeological site and a major Bronze Age culture in modern Guanghan, Sichuan, China.
-- [Tongji (Spirit Medium)](wp:Tongji_(spirit_medium) "wikilink") is the tool used by the shaman. During the ceremony, they will keep throwing the tool on their backs to draw blood to show their power and authority.
+- Tongji (Spirit Medium) is the tool used by the shaman. During the ceremony, they will keep throwing the tool on their backs to draw blood to show their power and authority.
 - Taiwanese voice actress for Shaman and Lady Ethereal is 連思宇 (Szu Yu Lien). Famous characters voiced by her are:
   - Anya Forger (SPY×FAMILY)
   - Rem (Re Zero: Life in a Different World from Zero)

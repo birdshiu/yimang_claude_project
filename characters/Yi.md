@@ -14,7 +14,7 @@ license: CC BY-SA (wiki.gg)
 Yi is a short solarian in his early adulthood. Characters often make comments regarding his diminutive height and youthful appearance:
 
 - Shuanshuan asks him if he was transmutated because other solarian looks taller than him, to which he replies that it has nothing to do with gene modification;
-- Shanhai 9000 in the [Empyrean District (Living Area)](Empyrean_District_(Living_Area) "wikilink") remarks that Yi does not look like a legal adult;
+- Shanhai 9000 in the Empyrean District (Living Area) remarks that Yi does not look like a legal adult;
 - He is one of the shortest characters in the game, being approximately as tall as Shuanshuan, Yanlao, Ji in his young form and slightly taller than a few children of the Peach Blossom Village.
 
 His body is fully covered by pale yellow or cream smooth fur, the length of which seems to be medium-hair.
@@ -41,7 +41,7 @@ Underneath, Yi is dressed in a skin-tight black body suit. It does cover his han
 
 At the center of his chest, directly over and notched into his heart (the x-ray scan shows a hole in Yi's rib cage where it is located) is a large jade ring called Rhizomatic Stabilizer, that serves as a medical device for his unique heart, that has merged with Primordial Roots in an incident, granting him extraordinary abilities, such as being able to store Qi, increased regeneration and potentially slower aging and ability to be reborn from the Roots after death.
 
-The design of the hats Eigong and Yi wear in the beginning act of the game is inspired by the Chinese Weimao from the Tang dynasty. **Weimao** (Chinese: 帷帽; lit. 'veiled hat or curtained hat') is a type of wide-brimmed hat with a shoulder-length hanging veil that evolved from the full-body veil [Mili](wp:Mili_(veil) "wikilink") hat by the end of the Sui dynasty.
+The design of the hats Eigong and Yi wear in the beginning act of the game is inspired by the Chinese Weimao from the Tang dynasty. **Weimao** (Chinese: 帷帽; lit. 'veiled hat or curtained hat') is a type of wide-brimmed hat with a shoulder-length hanging veil that evolved from the full-body veil Mili hat by the end of the Sui dynasty.
 
 In the flashbacks, at his homeland, Xia, he was dressed in an opened loose green-blue plain taoist robe with light green hems.
 
@@ -89,7 +89,7 @@ However, before Yi got the chance to ask Heng a third time, he learned of the or
 
 The game begins with Yi interrupting the harvest ceremony, for which Shuanshuan was chosen. Instead of riding the platform down into the Apeman Facility after all 3 apemen were harvested, which was the plan, Yi saves Shuanshuan from being harvested and then descends the platform, which triggers multiple alarms. Yi's goal is motivated by revenge: to slay the other nine Sols for wronging him, and to acquire the Council Code, composed of all ten Sol Seals. He progresses to the Four Seasons Pavilion, where he activates Ruyi and meets up with Shuanshuan, who Yi allows to reside in the Pavilion.
 
-Yi then proceeds to face the first 3 Sols, recruiting Kuafu and defeating Yanlao and Goumang. Yi is then captured and imprisoned by Jiequan, who tortures Yi and sends an attack onto Peach Blossom Village. Yi escapes the Prison, but collapses after exiting [Factory (Machine Room)](Factory_(Machine_Room) "wikilink"), being brought back to the Pavilion by Chiyou. When Yi awakes and recovers, he continues onto his path towards Jiequan, defeating him. His encounter with Jiequan and the things that Jiequan said to him during his imprisonment cause Yi to begin to reflect on the purpose of his mission, that perhaps his drive for revenge is misguided.
+Yi then proceeds to face the first 3 Sols, recruiting Kuafu and defeating Yanlao and Goumang. Yi is then captured and imprisoned by Jiequan, who tortures Yi and sends an attack onto Peach Blossom Village. Yi escapes the Prison, but collapses after exiting Factory (Machine Room), being brought back to the Pavilion by Chiyou. When Yi awakes and recovers, he continues onto his path towards Jiequan, defeating him. His encounter with Jiequan and the things that Jiequan said to him during his imprisonment cause Yi to begin to reflect on the purpose of his mission, that perhaps his drive for revenge is misguided.
 
 Yi enters Lady Ethereal's soulscape, and within learns that the soulscape system, an integral part of the Eternal Cauldron Project, never actually functioned properly, and that Lady Ethereal had lied to the Council about this because of the dire circumstances. He is hesitant to kill her, but Lady Ethereal's overwhelming feeling of guilt forces her to fight, where she is defeated by Yi. He then moves on to defeat The Fengs and Ji. Yi actively attempts to avoid combat with them, but they choose to fight, sealing their fates. The items that Yi obtains from defeating them allow Kuafu and Ruyi to create the Super Mutant Buster, a device that opens the way in the Tiandao Research Center to access Eigong.
 
@@ -109,7 +109,7 @@ Yi boasts a wide variety of abilities throughout the course of the game, inspire
 
 ### Lore
 
-- In the first version of the [Nine Sols](Nine_Sols_(Game) "wikilink") script, Yi and Tianhuo were all attributed to nature as determined by Tao. Yi was a darker, contemptible person.
+- In the first version of the Nine Sols script, Yi and Tianhuo were all attributed to nature as determined by Tao. Yi was a darker, contemptible person.
 - Lear calls Yi a fellow disciple — daoshi (Chinese: 道士; lit. 'scholar of the Tao'), translated as Taoist priest, Taoist monk, or Taoist professional. The courtesy title of a senior daoshi is daozhang (道长, meaning "Tao master"), and a highly accomplished and revered **daoshi** is often called a zhenren (真人, "perfected person").
 - It is implied that after the defeat in the battle against Eigong at the start of the game, while sustained by the Primordial Roots in the mountain wall, Yi did not age physically at all, while Vital Sanctums technology only slows down the aging of other solarians. Ruyi is puzzled by how Yi was able to maintain his youth over "all these years" and the new-found information that Primordial Roots can grant everlasting youth. When presented with a question about solarian with very slow aging, Kuafu asks if it could be the imprisoned Kanghui or, perhaps, **Yi**, who "haven't aged ever since the incident", and says that he has the most enigmatic body in all of New Kunlun.
 - Internal damage that is in the game is called **"內傷"** - internal injury. In addition to physical damage, it can also mean that the flow of Qi in the body becomes chaotic and difficult to control. It may cause difficulty breathing in mild cases, but may cause internal bleeding or even damage to internal organs in severe cases.

@@ -16,8 +16,3 @@ Its spherical screen does not project a fish and only shows static and loading a
 Shanhai 1000 is a testing model for the future Shanhai robots and had been developed by the Fangshi Guild. Ji was the one who wanted to put a real fish inside its head, but opted to a display due to a too high potential maintance cost. He also wanted to fill it with water to represent the seas and mountains of Penglai, but Lear insisted on keeping the features practical for mass-production. This implies that Shanhai 1000 may have had a fish projection once, but it stopped working after a millennium of years passed.
 
 It has a very basic talking module and commands recognition compared to the modern 9000 models.
-
-## Trivia
-
-- The name of **Shanhai 9000 (山海9000)** comes from the Classic of Mountains and Seas (山海經), also known as Shanhai Jing.
-- Wen An Chia (賈文安) is the Taiwanese voice actor of Shanhai robots. Famous characters voiced by him include: Rui (Demon Slayer/Kimetsu No Yaiba), Senku Ishigami (Dr.STONE), Fujimaru Ritsuka (Fate/Grand Order), Woo Jinchul and Yoo Jinho (Solo Leveling).

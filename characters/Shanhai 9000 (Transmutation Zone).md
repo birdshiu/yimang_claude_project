@@ -5,7 +5,7 @@ revision: 2026-06-03T03:44:47Z
 license: CC BY-SA (wiki.gg)
 ---
 
-**Factory (or Transmutation Zone) Shanhai 9000** is the standard New Kunlun Shanhai robot model found in the [Factory (Production Area)](Factory_(Production_Area) "wikilink") area of the Transmutation Zone administrated by Sol Jiequan. It provides Transmutation Zone Chip.
+**Factory (or Transmutation Zone) Shanhai 9000** is the standard New Kunlun Shanhai robot model found in the Factory (Production Area) area of the Transmutation Zone administrated by Sol Jiequan. It provides Transmutation Zone Chip.
 
 ## Description
 
@@ -18,8 +18,3 @@ When first interacted with, the Factory Shanhai appears to have a friendly dispo
 It provides spiteful predictions in the Fortune Teller Machine.
 
 It is unknown if only this Shanhai had a weapon installed or if it is a standard component of all other Shanhai, since no other Shanhai are seen turning hostile.
-
-## Trivia
-
-- The name of **Shanhai 9000 (山海9000)** comes from the Classic of Mountains and Seas (山海經), also known as Shanhai Jing.
-- Wen An Chia (賈文安) is the Taiwanese voice actor of Shanhai robots. Famous characters voiced by him include: Rui (Demon Slayer/Kimetsu No Yaiba), Senku Ishigami (Dr.STONE), Fujimaru Ritsuka (Fate/Grand Order), Woo Jinchul and Yoo Jinho (Solo Leveling).

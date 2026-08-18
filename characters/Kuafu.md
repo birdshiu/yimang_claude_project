@@ -125,49 +125,6 @@ Kuafu also acts as a vendor, providing upgrades to Yi's equipment. This function
 
 In the Endings, there are periods during which Kuafu is absent from the Four Seasons Pavilion. However, the forge still provides access to purchase any remaining upgrades with the necessary Jin and Materials.
 
-| Kuafu's Shop Inventory |
-|------------------------|
-| Image                  |
-|                        |
-|                        |
-|                        |
-|                        |
-|                        |
-|                        |
-|                        |
-|                        |
-|                        |
-|                        |
-|                        |
-|                        |
-|                        |
-
-## Dialogue
-
-<tabber> \|-\| Hide =
-
-\|-\| Power Reservoir =
-
-\|-\| Story =
-
-\|-\| Talk =
-
-\|-\| Azure Bow Arrows =
-
-\|-\| Calls =
-
-\|-\| Shuanshuan Artifacts = Shuanshuan artifact interactions
-
-WIP
-
-\|-\| After Point of No Return =
-
-\|-\| Council Proceedings =
-
-\|-\| Shooting Star Ending =
-
-</tabber>
-
 ## Trivia
 
 ### Inspirations
