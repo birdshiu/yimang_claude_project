@@ -24,5 +24,3 @@ When their son, Lear, became increasingly close to the King, Liwen became anxiou
 Sensing that something was amiss, Liwen and Lijing initiated a plan, while Jietong was at the entrance of the Orbital Elevator, they sabotaged the Haotian Sphere, causing the Rhizomatic Cannons to fall and the structure to collapse. Lijing watched the event from a shore, while Liwen placed Lear in a boat while he was asleep, in an attempt to lead him to safety.
 
 However, as Liwen talked to the sleeping Lear, Lijing warned about a squad coming down the hill, he urged the sailor to take Lear to the sea, leaving the couple behind. Lear awoke at sea just in time to witness his parents' execution by Jietong, charged with treason.
-
-zh:李耳

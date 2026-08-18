@@ -42,29 +42,6 @@ If Yi does not rescue him in Yinglong Canal and the following conditions are met
 Shuanshuan instead finds Shennong fallen ill at the entrance to the Pavilion, carries him to the room near the backyard and asks Yi to help him.
 Despite the urgency of the situation, saving Shennong can be postponed until the late game and his questline can be continued from that point. Note that it is impossible to get the key to rescue the village or for Unknown Seed to grow from GM Fertilizer until Yi saves him, as he appears in those cutscenes.
 
-## Dialogue
-
-<tabber> \|-\| Hide =
-
-\|-\| Peach Blossom Village =
-
-\|-\| Yinglong Canal =
-
-\|-\| Four Seasons Pavilion =
-
-\|-\| Talk =
-
-\|-\| Poison =
-
-\|-\| Drinking brews =
-
-\|-\| Saving the Village =
-
-\|-\| Curing a Poisoned Boy =
-
-\|-\| Defending the Camp =
-
-\|-\| Ending = After choosing to save the apemen with Kuafu , Yi bids farewell to him, Shuanshuan and Shennong at the Galactic Dock { class="wikitable" ! Character !! Dialogue Kuafu Yi Kuafu Yi Kuafu Yi Shennong Shuanshuan Shennong Shuanshuan Yi Shuanshuan Yi Shuanshuan Yi Shuanshuan Yi Kuafu Yi } </tabber>
 
 ## Trivia
 

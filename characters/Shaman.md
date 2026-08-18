@@ -11,20 +11,6 @@ The **Shaman** (traditional Chinese:卜巫; pinyin: *Bowū*) is the current lead
 
 The Shaman is an old woman, with olive skin and hunched posture. She wears the purple robes that people in Peach Blossom Village wear during ceremonies, with a cloak of darker tone of purple above it. She's always seen wearing the mask meant to represent their solarian gods, hiding her face.
 
-## Story
-
-WIP
-
-## Dialogue
-
-<tabber> \|-\| Hide =
-
-\|-\| Peach Blossom Village =
-
-\|-\| Galactic Dock =
-
-</tabber>
-
 ## Trivia
 
 - Shaman is implied to secretly be the lost Guru that Shennong talks about. In the original dialogue, Shaman calls Shennong like an old mother and is secretly concerned about all his actions. Shaman calls Shennong "阿農 (Ah-nong)", an affectionate nickname. Shennong was loved by Shaman, even though this love was clumsy and awkward, reflecting the attitude of traditional Asian parents.

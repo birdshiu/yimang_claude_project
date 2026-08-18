@@ -15,58 +15,6 @@ Its spherical screen projects a cyan koi fish.
 
 It has overly enthusiastic and friendly personality.
 
-## Dialogue
-
-<tabber> \|-\| Hide =
-
-\|-\| Introduction = { class="wikitable" ! Character !! Dialogue Line Shanhai - Reservoir Yi Shanhai - Reservoir Yi Shanhai - Reservoir }
-
-\|-\| Talk = Upon entering the talk options again: { class="wikitable" ! Character !! Dialogue Line Shanhai - Reservoir }
-
-Upon leaving the talk options: { class="wikitable" ! Character !! Dialogue Line Yi Shanhai - Reservoir }
-
-\|-\| Status Report = { class="wikitable" ! Character !! Dialogue Line Yi Shanhai - Reservoir
-
-\|-\| Sol's Whereabouts = { class="wikitable" ! Character !! Dialogue Line Yi Shanhai - Reservoir }
-
-\|-\| Enter the Radiant Pagoda = { class="wikitable" ! Character !! Dialogue Line Yi Shanhai - Reservoir Yi Shanhai - Reservoir -
-
-`style="text-align:center;" colspan=2  `<small>`Choice 1`</small>
-
-Yi Shanhai - Reservoir -
-
-`style="text-align:center;" colspan=2  `<small>`Choice 2`</small>
-
-Yi Shanhai - Reservoir -
-
-`style="text-align:center;" colspan=2  `<small>`After Choice`</small>
-
-Shanhai - Reservoir }
-
-\|-\| Request Chip = Requesting the Power Reservoir Chip for the first time: { class="wikitable" ! Character !! Dialogue Line Shanhai - Reservoir -
-
-`style="text-align:center;" colspan=2  `<small>`Pay 400 Jin and get a copy of the chip (Total Jin >= 400 Jin)`</small>
-
-Shanhai - Reservoir -
-
-`style="text-align:center;" colspan=2  `<small>`Pay 400 Jin and get a copy of the chip (Total Jin < 400 Jin)`</small>
-
-Shanhai - Reservoir -
-
-`style="text-align:center;" colspan=2  `<small>`Forcibly remove the chip`</small>
-
-Shanhai - Reservoir -
-
-`style="text-align:center;" colspan=2  `<small>`Leave`</small>
-
-Shanhai - Reservoir }
-
-Requesting the chip again: { class="wikitable" ! Character !! Dialogue Line Shanhai - Reservoir }
-
-\|-\| Fortune Teller Results = Reservoir Shanhai results in the Fortune Teller Machine: { class="wikitable" ! Character !! Dialogue Line Shanhai - Reservoir Shanhai - Reservoir }
-
-</tabber>
-
 ## Trivia
 
 - The name of **Shanhai 9000 (山海9000)** comes from the Classic of Mountains and Seas (山海經), also known as Shanhai Jing.

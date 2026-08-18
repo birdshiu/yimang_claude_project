@@ -15,45 +15,6 @@ Its spherical screen projects a purple pufferfish.
 
 It has tsundere personality.
 
-## Dialogue
-
-<tabber> \|-\| Hide =
-
-\|-\| Introduction = { class="wikitable" ! Character !! Dialogue Line Shanhai - Greenhouse }
-
-\|-\| Talk = Upon entering the talk options again: { class="wikitable" ! Character !! Dialogue Line Shanhai - Greenhouse }
-
-Upon leaving the talk options: { class="wikitable" ! Character !! Dialogue Line Yi Shanhai - Greenhouse }
-
-\|-\| Status Report = { class="wikitable" ! Character !! Dialogue Line Yi Shanhai - Greenhouse Yi Shanhai - Greenhouse }
-
-\|-\| Shut Off the Yellow Water = { class="wikitable" ! Character !! Dialogue Line Yi Shanhai - Greenhouse }
-
-\|-\| Sol's Whereabouts = { class="wikitable" ! Character !! Dialogue Line Yi Shanhai - Greenhouse Yi Shanhai - Greenhouse Yi Shanhai - Greenhouse Yi Shanhai - Greenhouse }
-
-\|-\| Request Chip = Requesting the Agricultural Zone Chip for the first time: { class="wikitable" ! Character !! Dialogue Line Shanhai - Greenhouse -
-
-`style="text-align:center;" colspan=2  `<small>`Pay 400 Jin and get a copy of the chip (Total Jin >= 400 Jin)`</small>
-
-Shanhai - Greenhouse -
-
-`style="text-align:center;" colspan=2  `<small>`Pay 400 Jin and get a copy of the chip (Total Jin < 400 Jin)`</small>
-
-Shanhai - Greenhouse -
-
-`style="text-align:center;" colspan=2  `<small>`Forcibly remove the chip`</small>
-
-Shanhai - Greenhouse -
-
-`style="text-align:center;" colspan=2  `<small>`Leave`</small>
-
-Shanhai - Greenhouse }
-
-Requesting the chip again: { class="wikitable" ! Character !! Dialogue Line Shanhai - Greenhouse }
-
-\|-\| Fortune Teller Results = Greenhouse Shanhai results in the Fortune Teller Machine: { class="wikitable" ! Character !! Dialogue Line Shanhai - Greenhouse Shanhai - Greenhouse }
-
-</tabber>
 
 ## Trivia
 

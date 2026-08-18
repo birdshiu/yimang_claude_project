@@ -19,16 +19,6 @@ It provides spiteful predictions in the Fortune Teller Machine.
 
 It is unknown if only this Shanhai had a weapon installed or if it is a standard component of all other Shanhai, since no other Shanhai are seen turning hostile.
 
-## Dialogue
-
-<tabber> \|-\| Hide =
-
-\|-\| Factory = Turns aggresive after first interacting: { class="wikitable" ! Character !! Dialogue Line Shanhai - Factory }
-
-\|-\| Fortune Teller Results = Factory Shanhai results in the Fortune Teller Machine: { class="wikitable" ! Character !! Dialogue Line Shanhai - Factory Shanhai - Factory }
-
-</tabber>
-
 ## Trivia
 
 - The name of **Shanhai 9000 (山海9000)** comes from the Classic of Mountains and Seas (山海經), also known as Shanhai Jing.

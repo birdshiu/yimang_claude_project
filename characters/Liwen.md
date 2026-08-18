@@ -30,8 +30,5 @@ However, as she talked to the sleeping Lear, Lijing warned about a squad coming 
 ## Trivia
 
 - Liwen is a double amputee below the kneecaps, and as such is never seen walking and consistently uses a floating mobility device. It is implied that she lost her legs during the Jie Kingdom’s invasion of Xia, when she and her husband were trapped under the rubble.
-
-<!-- -->
-
 - While Liwen’s mobility device shares a general resemblance to Kuafu’s Hover Engineering Chair, it features a distinctly more elaborate design. Her model includes a curved arm-and-backrest rail, as well as a flower-shaped base, both absent from Kuafu’s version.
   - The rail design, however, appears visually similar to his multi-purpose ear guards. These differences may suggest that such devices are customized to suit the specific needs or roles of their users.

@@ -15,45 +15,6 @@ Its spherical screen projects a orange clam.
 
 It has overly worried and cowardly personality.
 
-## Dialogue
-
-<tabber> \|-\| Hide =
-
-\|-\| Introduction = { class="wikitable" ! Character !! Dialogue Line Shanhai - Warehouse }
-
-\|-\| Talk = Upon entering the talk options again: { class="wikitable" ! Character !! Dialogue Line Shanhai - Warehouse }
-
-Upon leaving the talk options: { class="wikitable" ! Character !! Dialogue Line Yi Shanhai - Warehouse }
-
-\|-\| Status Report = { class="wikitable" ! Character !! Dialogue Line Yi Shanhai - Warehouse }
-
-\|-\| Sol's Whereabouts = { class="wikitable" ! Character !! Dialogue Line Yi Shanhai - Warehouse }
-
-\|-\| Yanlao's Health = { class="wikitable" ! Character !! Dialogue Line Yi Shanhai - Warehouse }
-
-\|-\| Request Chip = Requesting the Warehouse Zone Chip for the first time: { class="wikitable" ! Character !! Dialogue Line Shanhai - Warehouse -
-
-`style="text-align:center;" colspan=2  `<small>`Pay 400 Jin and get a copy of the chip (Total Jin >= 400 Jin)`</small>
-
-Shanhai - Warehouse -
-
-`style="text-align:center;" colspan=2  `<small>`Pay 400 Jin and get a copy of the chip (Total Jin < 400 Jin)`</small>
-
-Shanhai - Warehouse -
-
-`style="text-align:center;" colspan=2  `<small>`Forcibly remove the chip`</small>
-
-Shanhai - Warehouse -
-
-`style="text-align:center;" colspan=2  `<small>`Leave`</small>
-
-Shanhai - Warehouse }
-
-Requesting the chip again: { class="wikitable" ! Character !! Dialogue Line Shanhai - Warehouse }
-
-\|-\| Fortune Teller Results = Warehouse Shanhai results in the Fortune Teller Machine: { class="wikitable" ! Character !! Dialogue Line Shanhai - Warehouse Shanhai - Warehouse }
-
-</tabber>
 
 ## Trivia
 

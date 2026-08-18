@@ -17,56 +17,6 @@ Shanhai 1000 is a testing model for the future Shanhai robots and had been devel
 
 It has a very basic talking module and commands recognition compared to the modern 9000 models.
 
-## Dialogue
-
-<tabber> \|-\| Hide =
-
-\|-\| Introduction = { class="wikitable" ! Character !! Dialogue Line Shanhai - Grotto -
-
-`style="text-align:center;" colspan=2  `<small>`Choice 1`</small>
-
-Yi -
-
-`style="text-align:center;" colspan=2  `<small>`Choice 2`</small>
-
-Yi -
-
-`style="text-align:center;" colspan=2  `<small>`After Choice`</small>
-
-Shanhai - Grotto Yi Shanhai - Grotto Yi Shanhai - Grotto Yi }
-
-\|-\| Talk = Upon entering the talk options again: { class="wikitable" ! Character !! Dialogue Line Shanhai - Grotto }
-
-Upon leaving the talk options: { class="wikitable" ! Character !! Dialogue Line Yi Shanhai - Grotto }
-
-\|-\| "Shanhai" Purpose = { class="wikitable" ! Character !! Dialogue Line Yi Shanhai - Grotto Yi Shanhai - Grotto }
-
-\|-\| Keyword: Ji = { class="wikitable" ! Character !! Dialogue Line Yi Shanhai - Grotto Shanhai - Grotto }
-
-\|-\| Request Chip = Requesting the Grotto of Scriptures Chip for the first time: { class="wikitable" ! Character !! Dialogue Line Shanhai - Grotto -
-
-`style="text-align:center;" colspan=2  `<small>`Pay 400 Jin and get a copy of the chip (Total Jin >= 400 Jin)`</small>
-
-Shanhai - Grotto -
-
-`style="text-align:center;" colspan=2  `<small>`Pay 400 Jin and get a copy of the chip (Total Jin < 400 Jin)`</small>
-
-Shanhai - Grotto -
-
-`style="text-align:center;" colspan=2  `<small>`Forcibly remove the chip`</small>
-
-Shanhai - Grotto -
-
-`style="text-align:center;" colspan=2  `<small>`Leave`</small>
-
-Shanhai - Grotto }
-
-Requesting the chip again: { class="wikitable" ! Character !! Dialogue Line Shanhai - Grotto }
-
-\|-\| Fortune Teller Results = Grotto Shanhai results in the Fortune Teller Machine: { class="wikitable" ! Character !! Dialogue Line Shanhai - Grotto Shanhai - Grotto }
-
-</tabber>
-
 ## Trivia
 
 - The name of **Shanhai 9000 (山海9000)** comes from the Classic of Mountains and Seas (山海經), also known as Shanhai Jing.

@@ -15,52 +15,6 @@ Its spherical screen projects a red fish, reminding ranchu, oranda or [lionhead]
 
 It has laid back, polite personality and served as the bartender at a bar at the Living Area.
 
-## Dialogue
-
-<tabber> \|-\| Hide =
-
-\|-\| Introduction = { class="wikitable" ! Character !! Dialogue Line Shanhai - Empyrean Yi Shanhai - Empyrean }
-
-\|-\| Talk = When leaving the talk options: { class="wikitable" ! Character !! Dialogue Line Yi Shanhai - Empyrean }
-
-\|-\| Status Report = { class="wikitable" ! Character !! Dialogue Line Yi Shanhai - Empyrean Yi Shanhai - Empyrean }
-
-\|-\| What Does Sleep Assistance Entail = Appears only after listing to status report: { class="wikitable" ! Character !! Dialogue Line Yi Shanhai - Empyrean Yi Shanhai - Empyrean }
-
-\|-\| Sol's Whereabouts = { class="wikitable" ! Character !! Dialogue Line Yi Shanhai - Empyrean Yi Shanhai - Empyrean -
-
-`style="text-align:center;" colspan=2  `<small>`Choice 1`</small>
-
-Yi Shanhai - Empyrean -
-
-`style="text-align:center;" colspan=2  `<small>`Choice 2`</small>
-
-Yi Shanhai - Empyrean }
-
-\|-\| Request Chip = Requesting the Empyrean District Chip for the first time: { class="wikitable" ! Character !! Dialogue Line Shanhai - Empyrean -
-
-`style="text-align:center;" colspan=2  `<small>`Pay 400 Jin and get a copy of the chip (Total Jin >= 400 Jin)`</small>
-
-Shanhai - Empyrean -
-
-`style="text-align:center;" colspan=2  `<small>`Pay 400 Jin and get a copy of the chip (Total Jin < 400 Jin)`</small>
-
-Shanhai - Empyrean -
-
-`style="text-align:center;" colspan=2  `<small>`Forcibly remove the chip`</small>
-
-Shanhai - Empyrean -
-
-`style="text-align:center;" colspan=2  `<small>`Leave`</small>
-
-Shanhai - Empyrean }
-
-Requesting the chip again: { class="wikitable" ! Character !! Dialogue Line Shanhai - Empyrean }
-
-\|-\| Fortune Teller Results = Empyrean Shanhai results in the Fortune Teller Machine: { class="wikitable" ! Character !! Dialogue Line Shanhai - Empyrean Shanhai - Empyrean }
-
-</tabber>
-
 ## Trivia
 
 - The name of **Shanhai 9000 (山海9000)** comes from the Classic of Mountains and Seas (山海經), also known as Shanhai Jing.

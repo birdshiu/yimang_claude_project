@@ -29,42 +29,6 @@ Shanhai 9000 is encountered broken at the entrance room of the Four Seasons Pavi
 
 After being repaired and rebooted, Yi realized how strange it is for a broken drawn-on robot to be in the Pavilion and threatens it to identify itself. Shanhai 9000 assures that it won't hurt him and offers a service to Yi: in each zone of New Kunlun there is a Shanhai 9000 with the corresponding Map Data Chip of that zone; if given to it, it will hack and analyze the data, locating any resources in the area for him. Yi stilled his suspicions, but does not overlook how hastily and proactively Shanhai 9000 offers its help, which is very weird for an assistive model. He still decides to cooperate, since knowing key data about locations on New Kunlun will prove highly beneficial.
 
-## Dialogue
-
-<tabber> \|-\| Hide =
-
-\|-\| Introduction = First dialogue after repairing Shanhai 9000 with 100 in the Four Seasons Pavilion: { class="wikitable" ! Character !! Dialogue Line Yi Shanhai - Pavilion Yi Shanhai - Pavilion Yi Shanhai - Pavilion Yi Shanhai - Pavilion Yi Shanhai - Pavilion }
-
-\|-\| Small Talk = Available at any point in progression. { class="wikitable" ! Character !! Dialogue Line Shanhai - Pavilion }
-
-{ class="wikitable" ! Character !! Dialogue Line Shanhai - Pavilion }
-
-{ class="wikitable" ! Character !! Dialogue Line Shanhai - Pavilion }
-
-\|-\| Map Data Chips = Received 1 Map Data Chip: { class="wikitable" ! Character !! Dialogue Line Shanhai - Pavilion Yi Shanhai - Pavilion Yi Shanhai - Pavilion Yi }
-
-Received 2 Map Data Chips { class="wikitable" ! Character !! Dialogue Line Yi Shanhai - Pavilion Yi }
-
-Received 3 Map Data Chips { class="wikitable" ! Character !! Dialogue Line Yi Shanhai - Pavilion Yi Shanhai - Pavilion }
-
-Received 4 Map Data Chips { class="wikitable" ! Character !! Dialogue Line Shanhai - Pavilion Yi Shanhai - Pavilion Yi }
-
-Received 5 Map Data Chips { class="wikitable" ! Character !! Dialogue Line Shanhai - Pavilion Yi Shanhai - Pavilion }
-
-Received 6 Map Data Chips { class="wikitable" ! Character !! Dialogue Line Shanhai - Pavilion Yi Shanhai - Pavilion Yi }
-
-Received 7 Map Data Chips { class="wikitable" ! Character !! Dialogue Line Yi Shanhai - Pavilion Yi Shanhai - Pavilion Yi }
-
-Received 8 Map Data Chips { class="wikitable" ! Character !! Dialogue Line Yi Shanhai - Pavilion Yi }
-
-Received 9 Map Data Chips { class="wikitable" ! Character !! Dialogue Line Yi Shanhai - Pavilion }
-
-\|-\| Searching for Chien = Shanhai 9000 acts strangely and searches for something for the first time after receiving 3 Map Data Chips: { class="wikitable" ! Character !! Dialogue Line Shanhai - Pavilion Yi Shanhai - Pavilion Yi Shanhai - Pavilion Yi Shanhai - Pavilion }
-
-Shanhai 9000 found searching and reading Chien's data on the screen after receiving 6 Map Data Chips: { class="wikitable" ! Character !! Dialogue Line Yi Shanhai - Pavilion Yi Shanhai - Pavilion Yi Shanhai - Pavilion Yi Shanhai - Pavilion Yi Shanhai - Pavilion Yi Shanhai - Pavilion }
-
-\|-\| Tiandao Research Center = After Point of No Return Shanhai 9000 finds Chien located inside an experimental pod and travelled to her in the Tiandao Research Center, operating its console to release her: { class="wikitable" ! Character !! Dialogue Line Yi Shanhai - Pavilion Yi Shanhai - Pavilion Yi } </tabber>
-
 ## Trivia
 
 - The name of **Shanhai 9000 (山海9000)** comes from the Classic of Mountains and Seas (山海經), also known as Shanhai Jing.

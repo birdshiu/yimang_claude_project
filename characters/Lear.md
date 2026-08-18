@@ -100,33 +100,18 @@ Each tutorial requires 3 uses of the corresponding techniques.
 - Parry and Talisman tutorial:
   - 2 Golems are encountered on the way.
   - When Lear is confronted, performs short Slashes from below, with his robe hiding the weapon.
-
-<!-- -->
-
 - Tai-Chi Kick tutorial:
   - Tai-Chi Kick is practiced on the green orbs on the way.
   - When Lear is confronted, performs fast Crimson Green Lunges with finger sword forming technique.
-
-<!-- -->
-
 - Charged Strike tutorial:
   - 2 Armored Dragonsnakes are encountered on the way.
   - When Lear is confronted, forms a defensive shield around himself, similar to Jiequan's to test Charged Strike ability to break them.
-
-<!-- -->
-
 - Air Dash tutorial:
   - Horizontal air mobility is practiced on the way.
   - Lear does not engage in combat.
-
-<!-- -->
-
 - Unbounded Counter tutorial:
   - Hammer and Death Eye Fangshi Statues are encountered on the way.
   - When Lear is confronted, performs Crimson Strikes from above by forming a Qi Blade in his hand.
-
-<!-- -->
-
 - Cloud Leap tutorial:
   - Vertical air mobility is practiced on the way.
   - Lear does not engage in combat.
@@ -135,32 +120,10 @@ Each tutorial requires 3 uses of the corresponding techniques.
 
 A chain of actions is available in the Grotto of Scriptures to find Lear's tomb and complete Lear's story.
 
-To complete the questline, the player must find and complete a total of three challenge rooms in the [Grotto of Scriptures (East)](Grotto_of_Scriptures_(East) "wikilink") and [Grotto of Scriptures (West)](Grotto_of_Scriptures_(West) "wikilink"), then defeat Spirit Keeper: Cixing to gain access to Lear's tomb. This quest line unlocks:
-
+To complete the questline, the player must find and complete a total of three challenge rooms in the Grotto of Scriptures (East) and Grotto of Scriptures (West), then defeat Spirit Keeper: Cixing to gain access to Lear's tomb. This quest line unlocks:
 - A Recording Device showing parts of Lear's Inaction Declaration
 - A final interaction with Lear in the Limitless Realm, triggering the Across Time and Space Achievement
 - The Rhizomatic Bomb, which is required for the True Ending
-
-## Dialogue
-
-<tabber> \|-\| Hide = \|-\| Trainings with Warrior =
-
-\|-\| Meetings with Lear =
-
-\|-\| Inaction Declaration =
-
-| Character       | Dialogue Lear Leader <i>/data corrupted/</i> Lear Leader <i>/data corrupted/</i> Lear Leader |
-|-----------------|----------------------------------------------------------------------------------------------|
-| Fangshi1Fangshi | What?!                                                                                       |
-| Fangshi6Fangshi | Impossible! Lear Leader                                                                      |
-| Fangshi2Fangshi | Is he serious?                                                                               |
-| Fangshi5Fangshi | Returning to nature? <i>/data corrupted/</i> Lear Leader                                     |
-| Fangshi2Fangshi | Is he just going to let go of all our hard-fought gains? Lear Leader <i>/data corrupted/</i> |
-| Fangshi4Fangshi | Inaction? What does he mean...? Lear Leader                                                  |
-| Fangshi6Fangshi | When was this decision made? Why were we not made aware...? Lear Leader                      |
-| Fangshi3Fangshi | We need to find a way to get out of Kunlun...                                                |
-
-</tabber>
 
 ## Trivia
 
