@@ -167,22 +167,6 @@ After doing a divination attack he will do 3 attacks in alternating order. Those
 - Can Unbounded Counter Blackhole
 - Crimson Pillar counts as a white attack, instead of crimson, despite the visual (not intended), and can be regular parried. However, the Crimson Ring expanding afterwards does not.
 
-## Dialogue
-
-<tabber> \|-\| Hide =
-
-\|-\| Lake Yaochi Ruins = Upon approaching the mysterious wanderer in the Lake Yaochi Ruins: { class="wikitable" ! Character !! Dialogue Ji Young Yi Ji Young Yi Ji Young Yi Ji Young Yi Ji Young Yi Ji Young Yi Ji Young }
-
-\|-\| Boundless Repository = Upon talking with the mysterious wanderer in the balcony to the left in the Boundless Repository, after defeating Xintian: { class="wikitable" ! Character !! Dialogue Ji Young Yi Ji Young Yi Ji Young Yi Ji Young Yi Ji Young Yi Ji Young Yi Ji Young Yi Ji Young Yi Ji Young Yi Ji Young }
-
-\|-\| Shengwu Hall = After entering the elevator to the [Factory (Production Area)](Factory_(Production_Area) "wikilink"): { class="wikitable" ! Character !! Dialogue Jiequan Bath Ji Shadow Jiequan Bath Ji Shadow Jiequan Bath Ji Shadow Jiequan Bath }
-
-\|-\| Grotto of Scriptures (Entry) = After getting Cloud Leap, climbing the rope in the [Grotto of Scriptures (Entry)](Grotto_of_Scriptures_(Entry) "wikilink") and continuing to the right, the mysterious wanderer is met yet again: { class="wikitable" ! Character !! Dialogue Ji Young Yi Ji Young Yi Ji Young Yi Ji Young Yi Ji Young Yi Ji Young Yi Ji Young Yi Ji Young Yi Ji Young Yi Ji Young Yi Ji Young Yi Ji Young Yi Ji Young Yi Ji Young Yi Ji Young }
-
-\|-\| Before Fight = Upon approaching Ji at the Ancient Stone Pillar: { class="wikitable" ! Character !! Dialogue Ji Young Yi Ji Young Yi Ji Young Yi Ji Young Ji Yi Ji Yi Ji Yi Ji Yi Ji Yi Ji Yi Ji }
-
-\|-\| Defeat = After defeating Ji: { class="wikitable" ! Character !! Dialogue Ji Defeat Yi Ji Defeat Yi Ji Defeat } </tabber>
-
 ## Trivia
 
 ### Gameplay

@@ -98,44 +98,6 @@ Flat hallway with hazard pits on both ends of the room.
 
 Jiequan becomes faster and more aggressive, loses Gene Eradicator debuff and can teleport 1-3 times before Crimson Slam or Tai Chi Kick lunge. Jiequan no longer chooses to shield after throwing spiky bombs, instead doing his spear dash as an alternative to the homing daggers.
 
-## Dialogue
-
-<tabber> \|-\| Hide =
-
-\|-\| Call = After defeating first three Sols and getting their Sol Seals, Jiequan calls and invited Yi to a duel: { class="wikitable" ! Character !! Dialogue Jiequan Yi Jiequan Yi Jiequan Yi Jiequan }
-
-\|-\| First Encounter = Upon entering the marked meeting area in the [Factory (Great Hall)](Factory_(Great_Hall) "wikilink"): { class="wikitable" ! Character !! Dialogue Jiequan Yi Jiequan Yi Jiequan -
-
-`style="text-align:center;" colspan=2  `<small>`Choice 1`</small>
-
-Yi Jiequan -
-
-`style="text-align:center;" colspan=2  `<small>`Choice 2`</small>
-
-Yi Jiequan }
-
-\|-\| Prison = After Yi wakes up in the Prison: { class="wikitable" ! Character !! Dialogue Jiequan Jiequan -
-
-`style="text-align:center;" colspan=2  `<small>`Choice 1`</small>
-
-Yi -
-
-`style="text-align:center;" colspan=2  `<small>`Choice 2`</small>
-
-Yi -
-
-`style="text-align:center;" colspan=2  `<small>`After Choice`</small>
-
-Jiequan Yi Jiequan Yi Jiequan Jiequan Yi Jiequan Yi Jiequan Yi Jiequan }
-
-\|-\| Jiequan and Seer = After entering the elevator to [Factory (Production Area)](Factory_(Production_Area) "wikilink"): { class="wikitable" ! Character !! Dialogue Jiequan Bath Ji Shadow Jiequan Bath Ji Shadow Jiequan Bath Ji Shadow Jiequan Bath }
-
-\|-\| Shengwu Hall =
-
-\|-\| Council Proceedings =
-
-</tabber>
-
 ## Trivia
 
 ### Gameplay
