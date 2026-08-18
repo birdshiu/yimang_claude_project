@@ -1,21 +1,36 @@
-Lear was the leader of the Fangshi Guild and an important historical figure of Penglai. He accompanies Yi through various tutorials to unlock new movement and combat abilities.
+---
+title: Lear
+source: https://ninesols.wiki.gg/wiki/Lear
+revision: 2026-06-08T17:26:41Z
+license: CC BY-SA (wiki.gg)
+---
 
-# Appearance
+**Lear** (traditional Chinese: 李耳; pinyin: *Lǐ Ěr*) was the leader of the Fangshi Guild and an important historical figure of Penglai. He accompanies Yi through various tutorials to unlock new movement and combat abilities.
+
+## Appearance
+
 Lear is a solarian of medium height with cream white fur. His eyes are dark with red accents, similar to Heng's, highlighting the resonance with the Primordial Roots.
 
-## Elder
+### Elder
+
 As an elder met in Limitless Realm, Lear wears a teal robe with green accents. There are visible wrinkles on his forehead, he has a wide bronze nose and he sports a long moustache. His legs are visibly gaunt and, notably, his extremities have human-like fingers and bronze nails, unlike many other solarians with more cat-like hands and claws. He sits atop a floating rock and his long hair fades into wafts of green smoke behind him.
 
 His older look is modeled after Taoist immortals, exuding unbounded freedom. The tips of his hair gradually transform into energy—a result of his prolonged stay in the Limitless Realm and deep influence from the Primordial Roots.
 
-## Leader
+### Leader
+
 During his leadership of the Fangshi Guild, he wears his uniform and with his howl down revealing his face, mostly the same as in his old age, with the only visual difference of not having a long mustache.
 
-## Child
+### Child
+
 On the Haotian Sphere, Lear wore a pastel green robe, with darker green accents on his cuffs, waist, and pants. His hair is short and tied behind his head. He likely still has the red accents in his eyes.
 
-# Story
-## Past
+## Story
+
+### Past
+
+#### Childhood
+
 In the Way of Lear it is revealed that, although his lineage stems from the Xia Kingdom, Lear was born and raised in the Jie Kingdom. His parents, Liwen and Lijing, were the chief and deputy architects of the Haotian Sphere project respectively; having been brought on under the premise of creating a deep-space research satellite. Because of his parents' work, the young Lear spent much time on the Haotian Sphere, passing the time by 'reading' in the Celestial Library or playing Qiankun with Jietong, the Emperor of the Jie Kingdom. Jietong would often find it absurd that people of Xia like Lear based this game off warfare, when they are clearly the weakest nation on Penglai. Despite the odds, Lear would always win due to his cunning and observance on how the game worked, and in return, Jietong would grant him anything he asked, such as providing a passkey to visit the Celestial Library in secrecy at night.
 
 During the architects' meeting with Jietong, Liwen was enraged at how they were lied to by the emperor about his decision to weaponize the Haotian Sphere Project. With the rhizomatic cannon prototypes nearing testing phase completion, Liwen was especially worried about the Emperor's influence on her son, especially since Jietong declared his plans to mold him as part of his army. Not long after, Liwen stormed the Celestial Library, where it was revealed that Lear, alongside the architects' children, was actually working on a mysterious computing device. In a fit of rage, she smashed the device and rebuked him for siding with the Emperor.
@@ -30,12 +45,16 @@ Eventually, Lear's parents received a letter summoning them and their son to a m
 
 Lear woke up to the pounding waves to a volley of arrows fired by the troops, only luckily saved from being shot thanks to the passkey around his neck. Before his eyes, Lear was forced to watch as the Emperor executed his parents for treason, in gruesome, harrowing detail. Adding insult to injury, the damaged passkey cracked open, revealing a tracking device, which explained how the Emperor knew of his whereabouts. As the sole survivor, Lear then watches the Emperor's gaze fade into the fog as he drifts away across Penglai's waters.
 
-As the evening approached, Lear decided to take out and tried to turn on the astronomical device from the torn pouch, only to notice a bright shine of the starry sky above, reflecting how it really is as beautiful as his parents envisioned it. He remembers, while working on the device, his mother asked how Lear feels about the sky, which he gazed upon since the day he was born. Even though he replied that he doesn't feel anything special towards them, Liwen agrees and says that only later she realized that the stars shone so brightly in the night sky that day only because their capital had been destroyed and the lights of millions of homes had gone dark. In spite of the sacrifices and accomplishments Solarians made, they couldn't prevent their inevitable mortality, and as a result, could only turn to the stars as their only means of comfort; a reminder of how insignificant as a species they were to the rest of the universe.
+As the evening approached, Lear decided to take out and tried to turn on the astronomical device from the torn pouch, only to notice a bright shine of the starry sky above, reflecting how it really is as beautiful as his parents envisioned it. He remembers, while working on the device, his mother asked how Lear feels about the sky, which he gazed upon since the day he was born. Even though he replied that he doesn't feel anything special towards them, Liwen agrees and says that only later she realized that the stars shone so brightly in the night sky that day only because their capital had been destroyed and the lights of millions of homes had gone dark.
 
-## Rise of the Fangshi Guild
+In spite of the sacrifices and accomplishments Solarians made, they couldn't prevent their inevitable mortality, and as a result, could only turn to the stars as their only means of comfort; a reminder of how insignificant as a species they were to the rest of the universe.
+
+#### Rise of the Fangshi Guild
+
 Seeking to free Solarians from the Jie Empire's clutches and end the Turbulent Era wars, Lear, alongside his scholar friend Yin Jifu, founded the Fangshi Guild on Kunlun island, with Guiguzi and joining later as great negotiator and Luyan as combat leader and strategist, helping the Guild reach its goal.
 
-## Disbandment of the Fangshi Guild
+#### Disbandment of the Fangshi Guild
+
 After ending the wars, putting the end to the Turbulent Era and the Origin Era was proclaimed, Lear is forced to watch as his companions, the Three Great Sages, slowly fell to their vices and corruption; eventually having to take them down himself. He then comes to a terrible epiphany: by arbitrarily striking down his former comrades one by one, he only became the most powerful threat to Penglai alive.
 
 Recognizing this, Lear is forced to establish the Inaction Declaration, where all Fangshi technology were to be sealed, but, at the same time, any technologies deemed beneficial to all solarians were to be made common property for all to use, and finally for the Fangshi Guild to be disbanded.
@@ -44,25 +63,108 @@ He entombed his friends' corpses, with the truth of their passing, alongside the
 
 In his later years, Lear has secluded himself on Kunlun, indifferent to worldly affairs. Though some say he shifted from scientist to Tao seeker, his lifelong pursuit remains a quest to understand the laws of Heaven and Earth.
 
-## Present
+### Present
+
 After the Fangshi Guild was disbanded and Lear's passing, his teachings of keeping balance with nature and practice of inaction were more popularized. People celebrated Peace day and Lear day with festivals. Taoists had idol shrines with the Three Great Sages: Yin Jifu, Guiguzi and Luyan — and Lear's image towering above before the sun, as seen in Yi's parents house during one of the Heng Cutscenes.
 
 During the events of the game, Lear remains buried in the Grotto of Scriptures. Yi, however, is able to interact with him on multiple different occasions through Fusang and the Tao.
 
 His final appearance is during the cutscene that plays when Yi visits him through Fusang in his tomb, after what he leaves for good.
 
-# Boss
-Lear appears as the masked warrior practicing and developing Fangshi techniques in the Limitless Realm several times after entering anomalous Root Nodes.
+## Boss
+
+**Lear** appears as the masked warrior practicing and developing Fangshi techniques in the Limitless Realm several times after entering anomalous Root Nodes.
 
 At this crossroads of time and space, Lear has long been bonded with Yi through Fusang's influence. Although he cannot fully perceive Yi's form, their consciousnesses continually converge.
 
-## Combat Appearance
+### Combat Appearance
+
 In battles, young Lear wore a pale yellow and gray uniform with pastel green accents. A gray cowl surrounds his head with a ponytail extending behind, and a round white mask with a black pattern, reminiscent of Fusang, hides his face. He wears a Fangshi belt with Fusang markings on his waist.
 
-In his youth, Lear adorned himself with various pieces of Fangshi-tech gear to fully harness his potential as a "Resonator" of the Primordial Roots, significantly boosting his combat prowess[3] (beyond naturally better resonating with Fusang, signified by his red eye underglows).
+In his youth, Lear adorned himself with various pieces of Fangshi-tech gear to fully harness his potential as a "Resonator" of the Primordial Roots, significantly boosting his combat prowess (beyond naturally better resonating with Fusang, signified by his red eye underglows).
 
-## Combat
+### Combat
+
 Lear has ingeniously merged Primordial Roots technology with martial arts to forge a unique form of "Combat Fangshu." His movements draw inspiration from various Tai Chi postures.
 
 Lear is an invincible boss enemy, similar to first encounter Jiequan. He has full health restoration each game tick.
 
+#### Arena
+
+Rocky ground with cliffs into bottomless pits on both sides.
+
+#### Attacks
+
+Each tutorial requires 3 uses of the corresponding techniques.
+
+- Parry and Talisman tutorial:
+  - 2 Golems are encountered on the way.
+  - When Lear is confronted, performs short Slashes from below, with his robe hiding the weapon.
+
+<!-- -->
+
+- Tai-Chi Kick tutorial:
+  - Tai-Chi Kick is practiced on the green orbs on the way.
+  - When Lear is confronted, performs fast Crimson Green Lunges with finger sword forming technique.
+
+<!-- -->
+
+- Charged Strike tutorial:
+  - 2 Armored Dragonsnakes are encountered on the way.
+  - When Lear is confronted, forms a defensive shield around himself, similar to Jiequan's to test Charged Strike ability to break them.
+
+<!-- -->
+
+- Air Dash tutorial:
+  - Horizontal air mobility is practiced on the way.
+  - Lear does not engage in combat.
+
+<!-- -->
+
+- Unbounded Counter tutorial:
+  - Hammer and Death Eye Fangshi Statues are encountered on the way.
+  - When Lear is confronted, performs Crimson Strikes from above by forming a Qi Blade in his hand.
+
+<!-- -->
+
+- Cloud Leap tutorial:
+  - Vertical air mobility is practiced on the way.
+  - Lear does not engage in combat.
+
+## Gameplay
+
+A chain of actions is available in the Grotto of Scriptures to find Lear's tomb and complete Lear's story.
+
+To complete the questline, the player must find and complete a total of three challenge rooms in the [Grotto of Scriptures (East)](Grotto_of_Scriptures_(East) "wikilink") and [Grotto of Scriptures (West)](Grotto_of_Scriptures_(West) "wikilink"), then defeat Spirit Keeper: Cixing to gain access to Lear's tomb. This quest line unlocks:
+
+- A Recording Device showing parts of Lear's Inaction Declaration
+- A final interaction with Lear in the Limitless Realm, triggering the Across Time and Space Achievement
+- The Rhizomatic Bomb, which is required for the True Ending
+
+## Dialogue
+
+<tabber> \|-\| Hide = \|-\| Trainings with Warrior =
+
+\|-\| Meetings with Lear =
+
+\|-\| Inaction Declaration =
+
+| Character       | Dialogue Lear Leader <i>/data corrupted/</i> Lear Leader <i>/data corrupted/</i> Lear Leader |
+|-----------------|----------------------------------------------------------------------------------------------|
+| Fangshi1Fangshi | What?!                                                                                       |
+| Fangshi6Fangshi | Impossible! Lear Leader                                                                      |
+| Fangshi2Fangshi | Is he serious?                                                                               |
+| Fangshi5Fangshi | Returning to nature? <i>/data corrupted/</i> Lear Leader                                     |
+| Fangshi2Fangshi | Is he just going to let go of all our hard-fought gains? Lear Leader <i>/data corrupted/</i> |
+| Fangshi4Fangshi | Inaction? What does he mean...? Lear Leader                                                  |
+| Fangshi6Fangshi | When was this decision made? Why were we not made aware...? Lear Leader                      |
+| Fangshi3Fangshi | We need to find a way to get out of Kunlun...                                                |
+
+</tabber>
+
+## Trivia
+
+- The finger gestures Lear and Yi use to summon a sword made of Qi is inspired by common spell-casting gesture (劍指 - sword fingers) in Taoism, used to represent the "sword" that can kill evil things.
+- **Laozi (李耳)**, also known as **Li Er** or Lao Tzu, was an ancient Chinese philosopher, traditionally considered the author of the "Tao Te Ching", a foundational text of Taoism. Laozi is worshipped for his teachings on the Tao, advocating simplicity, humility, and harmony with nature. His ideas emphasize effortless action (Wu Wei) and the importance of aligning with the natural flow of the universe.
+- Lear refers to Yi as a fellow disciple of Tao — Daoshi (道士) (Taoist priest).
+- **Lear** and **Three Great Sages** are worshipped similarly to how certain Taoist sects, such as Way of the Celestial Masters, present Laozi (Taishang Laojun (太上老君), "Lord Lao") and Three Pure Ones (三清) at the top of the pantheon of god. Three Pure Ones are the three highest gods, pure manifestations of Tao, and a torn piece of Them comes to human world to teach people wisdom. Laozi is regarded as reincarnation "Taishang Laojun" or "Daode Tianzun", and became member of the Three Pure Ones after death. Yin Jifu, Guiguzi and Luyan are likely treated as similar manifestations of Three Pure Ones. In the worldview of Nine Sols, Lear is portrayed as the highest level of gods and Three Great Sages as the second-level gods.

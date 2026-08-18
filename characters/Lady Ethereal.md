@@ -1,30 +1,42 @@
-Lady Ethereal is one of the Sols of the Tiandao Council. She holds the Sol Seal of Benevolence.
+---
+title: Lady Ethereal
+source: https://ninesols.wiki.gg/wiki/Lady_Ethereal
+revision: 2026-06-05T02:56:53Z
+license: CC BY-SA (wiki.gg)
+---
 
-# Appearance
+**Lady Ethereal** is one of the Sols of the Tiandao Council. She holds the Sol Seal of Benevolence.
+
+## Appearance
+
 Lady Ethereal is a solarian with light pink fur, large black tufts off the top of her ears, and appendages resembling hair descending from the bottom of them, also ending in black tufts. She has large, slightly rounded eyes, with two small round black brows, and wears pink eyeliner, eyeshadow, and lipstick. She is seen in multiple outfits, each varying in appearance.
 
-## Hot Spring
+### Hot Spring
+
 When first encountered, Lady Ethereal is covered by a towel sitting near a hot spring.
 
-## Formal
+### Formal
+
 Lady Ethereal's formal wear emulates insect wings. Normally she wears a dress with long sleeves that has a plain lavender color above the waist, cutting short at her shoulders. Below the waist, a desaturated blue layer covers a pinstripe pinkish white material that covers her legs, with the blue layer splitting open in the middle. Draped below her bust is a layer of fabric patterned green, yellow, and white, which is inspired by butterfly wing markings. The dress' collar is shaped like a butterfly, and its sleeves have a floral design.
 
-## Nightmare
+### Nightmare
+
 In her nightmare form, she wears a more exposing lavender, purple, and indigo dress. Her appearance has a lot of butterfly-inspired aspects, such as wing-like sections on the lower portion of the dress, floating top halves of butterfly wings above her shoulders, and tailcoat-like sections on the lower half of her dress that also resemble butterfly wings. The lowest portion of her dress combines into a sharp tip, and she wears gauntlets with sharp claws. In this form, her eyes are occasionally red.
 
-# Story
-## Past
+## Story
+
+### Past
+
 Lady Ethereal comes from Guifang Kingdom.
 
 Toward the end of the Origin Era, Lady Ethereal and her eight companions, including Xiaohe and Uncle Cao, established a research team dedicated to creating the Soulscape system, a hibernation system theoretically designed to overcome the previous pitfalls of placing Solarians in hibernation pods. This theoretical system intended to improve on previous hibernation systems by providing slumbering Solarians with a blissful virtual reality. This, the team believed, would eliminate the issue of previous systems causing brain death after prolonged hibernation. For their work, they were invited by Yi to join the Tiandao Council, which designated the team as a special unit and gave them the means to bring this theoretical system to reality.
 
-
-Lady Ethereal's collegues compilation
 To test the Soulscape system, Lady Ethereal's eight companions elected to participate in a thirty-day observational trial. Each of them was placed in a dedicated Vital Sanctum, where they would hibernate and be placed in prototype Soulscape systems. Before commencing the observational period, Lady Ethereal met with Xiaohe, who was her best friend, lab partner, and romantic partner. Xiaohe voiced her faith in Lady Ethereal's designs, bidding her lover farewell for thirty days. After awakening, the prototype Soulscape was initially deemed a success, as the subjects did not suffer brain death symptomatic of previous hibernation systems. Lady Ethereal personally greeted Xiaohe upon her awakening, asking how she felt and if she was okay.
 
 Tragically, the mental states of all the test subjects rapidly deteriorated. The Soulscape system produced such blissful dreams that waking up from them and returning to reality was akin to waking into a living hell. Unable to bear the reality of living outside of the Soulscape, Lady Ethereal's companions resorted to drastic means. Four committed suicide by hanging, two were left in catatonic states, one tore out his left eye, and a sobbing Xiaohe attempted to strangle Lady Ethereal to death. While only four subjects initially committed suicide, all eight test subjects ultimately ended up taking their own lives. Despite these major flaws, Lady Ethereal publicly claimed the Soulscape system was an operational success, likely under mental duress from the death of her companions and the graveness of the impending Tianhuo pandemic.
 
-## Life as a Sol
+### Life as a Sol
+
 At some point after joining the Council, Lady Ethereal was invited to become a Sol, and was given the Sol Seal signifying Benevolence, likely due to her research on the Soulscape system.
 
 In a council meeting during this time, fellow Sol Yi proposed the Eternal Cauldron Project as a means to buy time for the development of a cure -- a major component of which was Lady Ethereal's Soulscapes, which he believed was capable of overcoming issues encountered by previous systems. For unknown reasons, Lady Ethereal went along with Yi's plan and lied that the Soulscapes only had minor flaws, which she would patch out before launch. Instead, Lady Ethereal claimed that the only major issue with the system would be figuring out how to generate the massive amounts of computational power required to run Soulscapes for all Solarians aboard New Kunlun.
@@ -35,7 +47,8 @@ It is implied that Lady Ethereal experienced the late stages of Tianhuo virus in
 
 Over the five centuries after New Kunlun's launch, Lady Ethereal managed and stabilized the island's brain room, converting the computing power obtained from Apemen brains into the Vital Sanctum's network to serve the Solarians slumbering aboard New Kunlun. Unable to die, Lady Ethereal lived in a constant hell within her Soulscape, experiencing countless nightmares over the immense guilt she felt over her role in creating the Soulscape system, inadvertently killing her eight companions, and the likely deaths of many other Solarians due to its flaws. Eventually, she lost the ability to distinguish between dreams and reality.
 
-## Game Events
+### Game Events
+
 Yi unknowingly encounters Lady Ethereal when he enters the Cortex Center for the first time, implicitly entering Lady Ethereal's Soulscape through proximity. Lady Ethereal alters Yi's perception of the area, causing him to view her Vital Sanctum and the room as empty. When Yi tries to exit the room, he finds himself reappearing through the other entrance to the room. Yi then experiences blood raining from the ceiling of the room and frightening visions of Lady Ethereal desiccated form. Yi does not comment on these anomalies.
 
 After defeating Jiequan, Ruyi calls Yi and informs him that the firewall at the Four Seasons Pavilion has intercepted a strange signal. While whatever is sending the signal hasn't done anything, Ruyi worries that they may be dangerously close, prompting Yi to return and investigate the matter. Upon Yi's return, Ruyi explains that while he's attempted to analyze the signal, he hasn't been able to parse out any meaningful information from it, claiming that the signal's "random and nonsensical waveforms defy interpretation". However, Ruyi is able to trace the signal to its source: the Cortex Center.
@@ -64,5 +77,141 @@ When Yi defeats her, Lady Ethereal collapses to the ground and reverts to her no
 
 Upon her death, Lady Ethereal's Vital Sanctum changes appearance; her brain and nervous system slump over, signifying her passing. Additionally, her passing also allows Yi to be able to see the Shanhai 9000 of the Central Core, as well as what appears to be the remains of a Dusk Guardian, from which sprouts a fungal flower bearing a Greater Tao Fruit.
 
-## Soulscape
+### Soulscape
+
 Lady Ethereal's Soulscape reflects the chaos of her psyche, through stark contrasts between a "heaven-like surface" and a "hell-like" core. The beautiful, opalescent layer represents what she most yearns for: idyllic times with her eight cherished companions. To this end, Lady Ethereal constantly imagines their presence by her side, where they can live out their days together in peace in the comforting waters of a hot spring and a breathtaking landscape, while blocking out the agony of reality. Meanwhile, the hellish, dark layer of her Soulscape represents the deep, tar-like guilt she carries: guilt for creating the Soulscape system, which robbed her beloved friends of their lives as well as the lives of many more solarians that trusted in the safety of her system. Constant reminders of her guilt are dotted across the hellish Soulscape, in the forms of her friends accusing her of being guilty, grisly memorials of her friends, and fleshy beasts that signify the gruesome consequences of her actions.
+
+## Boss
+
+**Lady Ethereal** is the Sol boss of Central Core. She holds the Sol Seal of Benevolence.
+
+### Combat Appearance
+
+#### Nightmare Lady Ethereal
+
+Lady Ethereal grows sharp claws for hands and her eyes turn bright red. Her bottom set of ears slightly float on either side of her. Two large, petal shaped wings float a set space away from both shoulders, with a black dot in the center before spreading out to cyan with purple tips. Purple sleeves with a diamond motif wrap up to her neck.
+
+Her dress and sleeves turn a dark shade of purple and the outer layer of fabric peels out to show the same design as her wings. She now has a purple petticoat with pointed ends, and the ends of her lilac dress draw together and form a point.
+
+#### Shadow Clones
+
+Lady Ethereal’s face will appear shadowed with a red grin. Her outfit stays the same, except for the outer layer of her dress, which will turn a darker purple and open more.
+
+### Combat
+
+- Whenever Lady Ethereal stands still, her hands will emit black particles.
+- After every attack, Lady Ethereal will turn to the left and disappear in black and lilac butterflies.
+- Lady Ethereal can only be stunned by Talisman, Charged Strike, Cloud Piercer arrows, by Tai Chi Kicking her Crimson Green Dash attack and also by Qi Blade Jade empowered finishing strike.
+- Lady Ethereal can be progressed to the next phase or defeated by the already attached and exploded Talisman even after disappearing.
+
+#### Phase 1
+
+- Lady Ethereal hovers above Yi and laughs maniacally before starting fight.
+
+##### Arena
+
+- The arena initially appears as a simple white background while it seems to be raining.
+- After the dialogue finishes, the rain stops and the background fades to reveal Lady Ethereal's hands, each covered by twisted root-like formations, one on either side of the screen. Each of Lady Ethereal's fingers holds one of her Colleagues upside down, in some sort of cocoon-like structures.
+- The sky becomes deep black, illuminated by faint purple flashes.
+- At the center, some sort of statue of Lady Ethereal on her back appears, with a distinctive vertical wound on her head.
+- Three layers of waves cutouts cover the lower part of the background, red tree-like formations also extend upwards from the waves.
+- The floor itself is adorned with a silver, intricate pattern reminiscent of an opulent theater stage. Beneath the stage, golden butterflies hold up draped, gray-violet fabric.
+- No matter how far Yi moves, the arena appears endless, with no visible boundaries and no change in scenery.
+
+##### Attacks
+
+- Hovers in the air, tips of dress will glow crimson before slamming down.
+- Hovers close to the ground on either side of Yi, glowing red before Tai Chi swooping across the stage. Parrying it will stun her.
+- Hovers in one place and moves hands forward, summoning a homing purple ball that can be parried. Unbounded Counter works against these homing purple balls.
+- Hovers in one place, move her hands out and forward, and summon three blue homing daggers that fire one after the other,
+- Hovers in one place, make a circle motion and throw out her hands to either direction, summoning three crimson arrows spaced apart and parallel to the ground that move horizontally.
+- Spawns on one far side of Yi and float, holding out her claws before swooping across the stage, slashing.
+- Spawns midway on either side of Yi, slashing two times.
+
+#### Phase 2
+
+Lady Ethereal will hover above Yi and summon two clones of herself.
+
+- The real Lady Ethereal, along with her clones, will have her face masked by shadows. She and her clones maintain the same attacks from phase one. Multiple attacks will happen in tandem.
+  - If the real Lady Ethereal is stunned, all of her clones and attacks will disappear.
+  - The real Lady Ethereal will drop her shadow mask when hit with any attack, while her clones are dispelled and their attacks get cancelled. Real Lady Ethereal's attacks don't get cancelled unless she's stunned.
+  - Hitting the clones with any attack dispels them and cancels their attacks. They smile and disappear with black mist, turning into kaleidoscope of pink and black butterflies.
+- Unbounded Counter deals Internal Damage to the real Lady Ethereal, even if used against the attacks from her clones.
+
+##### Arena
+
+- Gray curtains close briefly, signaling a shift in the background, and if observed carefully, it is possible to see the curtains darkening.
+- The entire arena takes on a slight red hue and everything darkens.
+- The silhoutte of Lady Ethereal's head in the background now shows a pulsating, gaping wound
+- The rest of the background remains unchanged.
+
+##### Attacks
+
+Between long pauses in the fight, Lady Ethereal will choose which set of attacks she will do: Melee or Ranged. Usually she does not repeat the same set of attacks more than 2 times.
+
+Melee set:
+
+- Delayed slash
+- Double slash
+- Crimson Green dash
+- Crimson slam
+
+Ranged set:
+
+- Homing purple orb
+- Triple homing daggers
+- Crimson daggers
+
+During the second phase, a successful Unbounded Counter on almost all melee attacks removes the mask and reveals Lady Ethereal, with the exception of the Double slash attack.
+
+#### Phase 3
+
+Lady Ethereal will hover above Yi and summon six clones of herself.
+
+Unlike Phase 2, in Phase 3 the real Lady Ethereal will not have black mist on her face; only her clones will.
+
+##### Arena
+
+- Once more, the gray curtains close and reopen, further intensifying the arena's red tones.
+- The waves cutouts now display a negative color effect. This effect is also present on the floor, though to a lesser degree.
+- The wound on the silhoutte of Lady Ethereal's head has expanded further. A massive butterfly with eyes embedded in its wings appears on the wound.
+- The sky has turned entirely red, with all colors in the scene becoming more vibrant and saturated.
+- Notably, only the waves, golden butterflies, hands (along with Lady Ethereal’s companions), and the eye-butterfly are animated.
+
+##### Attacks
+
+Retains same attacks from phases one and two, with addition of:
+
+- Spirit Bomb Slam: Lady Ethereal will gather crimson energy above her, hovering a set distance over Yi. Two butterfly clones will appear one after the other on either side of Yi, hovering a set distance before slashing one after the other. After both clones have attacked, Lady Ethereal will smash the ball onto the floor, breaking it. There is another floor below it.
+- Two Lady Ethereal clones will spawn on either side of Yi, one after the other, and Tai Chi dash horizontally. Lady Ethereal will spawn on the opposite side of the last clone, Tai Chi dashing horizontally.
+- Real Lady Ethereal will hover high above ground, two clones will Tai Chi dash from both sides before the real Lady Ethereal does a big swoop.
+
+## Dialogue
+
+<tabber> \|-\| Hide =
+
+\|-\| Dream =
+
+\|-\| Bossfight =
+
+\|-\| Council Proceedings =
+
+</tabber>
+
+## Trivia
+
+### Lore
+
+- Lady Ethereal's name in Traditional Chinese is **Fu Die** (traditional Chinese: 蚨蝶; pinyin: Fúdié), meaning "butterfly" in a literal sense.
+  - The exact reason of her name change in the English localization is unknown, but it was likely to remove overlaps of her name with other words ("foodie", "die").
+  - Her boss fight and name are also likely to be inspired by *Lady Butterfly from Sekiro: Shadows Die Twice*.
+- **"小 (Xiao)"** is a prefix of endearment/close relationship used before names in Chinese; this, along with other depictions of the closeness between Xiaohe and Lady Ethereal, hint toward the idea that Xiaohe and Lady Ethereal had a particularly close relationship. It was later confirmed by developers that Xiaohe and Lady Ethereal are lovers.
+  - Lady Ethereal also playfully refers to Yi with "小 (Xiao)", suggesting a sense of familiarity between them.
+
+### Inspirations
+
+- Her Soulscape and dress aesthetic, as well as the problem of long dreams in Soulscapes, is likely a reference to the story of ["The Butterfly Dream"](wp:Zhuangzi_(book)#"The_Butterfly_Dream" "wikilink") (莊周夢蝶), a famous Chinese parable. In this tale, a man named Zhuang Zhou dreams he is a butterfly, freely flying without awareness of his human identity. Upon waking, he questions whether he is Zhuang Zhou who dreamed of being a butterfly, or a butterfly dreaming he is Zhuang Zhou.
+- Lady Ethereal's eight companions were originally derived from Eight Immortals, a legendary group of immortal beings in Chinese mythology. Over the course of the game's development, their designs gradually morphed into the game's unique style.
+- Lady Ethereal's formal dress sprites are referred to as "*Korean*" in the game files and localization sheet, suggesting that its design could've been inspired by traditional Korean dresses — Hanbok.
+- The entrance to Lady Ethereal's Soulscape is surrounded by Crimson Hibiscus flowers, the same ones used in the apeman harvest ceremony. Its design was inspired by traditional Taiwanese funeral services. The entrance incorporates several elements that are often present in these funeral services: wreaths, flowers, and drapes. This design choice was made to imply Lady Ethereal's mourning for the many deaths that occurred as a result of her Soulscape technology.
+- Lady Ethereal's appearance resembles that of a Lynx.
