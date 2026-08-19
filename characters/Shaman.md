@@ -15,9 +15,6 @@ The Shaman is an old woman, with olive skin and hunched posture. She wears the p
 
 - Shaman is implied to secretly be the lost Guru that Shennong talks about. In the original dialogue, Shaman calls Shennong like an old mother and is secretly concerned about all his actions. Shaman calls Shennong "阿農 (Ah-nong)", an affectionate nickname. Shennong was loved by Shaman, even though this love was clumsy and awkward, reflecting the attitude of traditional Asian parents.
   - "Ah(阿) + one of the characters from someone's name" is a common way of addressing close friends or relatives in China.
-
-<!-- -->
-
 - The "Guru" corresponds to "恩公" - benefactor. The "公" in this context is an honorific name for a person in Chinese, regardless of gender. Guru was a mentor to Shennong.
 - Wu (巫) is a Chinese term translating to "shaman" or "sorcerer", originally the practitioners of Chinese shamanism or "Wuism" (巫教).
 - The masks may be inspired by Sanxingdui (三星堆, 'Three Star Mound') is an archaeological site and a major Bronze Age culture in modern Guanghan, Sichuan, China.
