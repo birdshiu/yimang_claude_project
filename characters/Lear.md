@@ -124,6 +124,302 @@ To complete the questline, the player must find and complete a total of three ch
 - A final interaction with Lear in the Limitless Realm, triggering the Across Time and Space Achievement
 - The Rhizomatic Bomb, which is required for the True Ending
 
+## Dialogue
+### Meetings with Lear
+#### Fusang Horn
+Entering Anomalous Root Node in the Four Seasons Pavilion upon first arrival takes to Limitless Realm where Yi first talks with Lear.
+
+>Lear:
+>Ah, it’s you. We meet again, fellow disciple.
+>
+>Yi:
+>I don’t know you...
+>You look familiar, though...
+>Lear? Impossible...
+>
+>Lear:
+>Our fates have been joined long before either of us have realized.
+>
+>Yi:
+>...Where am I?
+>
+>Lear:
+>A limitless realm.
+>...Where the forces of heaven and earth intersect with spacetime and consciousness.
+>
+>(Dialogue Choice 1)
+>
+>Yi:
+>You’re not real. This is a mere illusion.
+>
+>Lear:
+>What can be deemed real among the myriad? What can be deemed false?
+>
+>(Dialogue Choice 2)
+>
+>Yi:
+>I don’t understand a single thing you’re saying.
+>
+>Lear:
+>One asks while another answers, but neither can really know.
+>Isn’t it marvelous?
+>
+>(After Choice)
+>
+>Yi:
+>...
+>Did you create this space?
+>
+>Lear:
+>Yours truly does not possess that ability. I have studied Fusang for eons...
+>Yet, when faced with its multitude of obscure arts, my knowledge is still left wanting.
+>
+>Yi:
+>Do you also not know how to leave?
+>
+>Lear:
+>That’s hardly difficult. Realize what is natural and simply act on your thoughts.
+>However, I do ask for a moment of your time. You lent me a hand many years ago, so I must not bring an end to our cycle of Tao.
+>
+>Yi:
+>I said that I don't know you...
+>
+>Lear:
+>This horn allows its user to resonate with Fusang, enabling travel between the central and outer nodes.
+>
+>Yi:
+>This thing will take me back to the Four Seasons Pavilion?
+>I never thought the nodes had this sort of function. If it actually works, this will save me a lot of time.
+>
+>Lear:
+>Hah, this horn is of no use to ordinary people. You, however, are different. Please accept it.
+>
+>Lear:
+>All paths eventually converge. We shall meet again.
+
+#### Fusang Horn Upgrade
+Anomalous Root Node in the Four Seasons Pavilion after escaping Prison takes Yi to Lear, who fixes and upgrades Fusang Horn with Teleport function.
+
+>Lear:
+>My fellow disciple, it’s certainly been a while. How fare you?
+>Your brow teems with fury. It looks as if you have been met with adversity.
+>
+>(Dialogue Choice 1)
+>
+>Yi:
+>It’s none of your business...
+>
+>Lear:
+>If you’d rather not discuss it, then so be it. I harbor no ill-will.
+>
+>Yi:
+>The state of my affairs is unimportant.
+>
+>(Dialogue Choice 2)
+>
+>Yi:
+>I just caught some nicks and scratches.
+>
+>Lear:
+>Your opponent must have been exceptional to be able to injure a master like yourself.
+>
+>Yi:
+>That scumbag... I’d rather not talk about him.
+>
+>(After Choice)
+>
+>Yi:
+>So why have you brought me here again?
+>
+>Lear:
+>Hah. I cannot know, let alone interfere with the current of the Tao.
+>If I were to venture a guess, I suppose we support each other like fish and water.
+>
+>Yi:
+>...Support?
+>Your horn has helped me a lot, but it hasn’t been that useful lately.
+>
+>Lear:
+>I should be able to find the cause.
+>Scene Fade
+>
+>Lear:
+>Its internals must have been damaged in battle. While I fixed it, I also updated the firmware and added a new teleport function.
+>
+>Yi:
+>So it’s a scientific device... What is this teleport function?
+>
+>Lear:
+>It will allow you to teleport to any registered external node from the central node.
+>
+>Yi:
+>So you had another card up your sleeve.
+>
+>Lear:
+>Hah. You misunderstand. I lost my attachment to scientific exploration years ago.
+>This new feature was born purely out of a need to scratch a mental itch that popped up the moment I gifted you the horn.
+>
+>Yi:
+>It would’ve taken any other scientist several lifetimes to accomplish what you did. Who in the world are you...?
+>
+>Lear:
+>This stunt is amusingly simple before the ways of the Tao. I hope you find good use out of this horn.
+>
+>Lear:
+>If through inaction, nothing is left undone, could indifference lead to contentment?
+
+#### Cycle of Tao
+Converges into immeadiatly after acquiring Cloud Leap.
+
+>Lear:
+>Do you recall now, fellow disciple? I did say I've met you before.
+>
+>Yi:
+>That warrior just now... That was you?
+>
+>Lear:
+>Yes. Thanks to your guidance, these Fangshi combat skills helped to save countless lives.
+>
+>Yi:
+>This space has left me utterly perplexed...
+>Wait, are you really Lear?
+>
+>
+>Lear:
+>Yours truly has long abandoned that name.
+>
+>Yi:
+>So I’ve actually been talking to a ghost...
+>The way I see it, you abandoned much more than just your name all those years ago.
+>
+>Lear:
+>And why would you put it that way?
+>
+>Yi:
+>You led the Fangshi to isolation and advocated ruling through inaction.
+>By sealing scientific progress on Penglai for hundreds of years, you have made it difficult for this generation of scientists to move forward.
+>
+>Lear:
+>Is that the verdict future generations have placed on me?
+>
+>Yi:
+>That is the verdict I have placed on you.
+>
+>Lear:
+>To be perfectly honest, I have never ceased to reflect upon my actions.
+>I am here not only to seek the Tao, but also to repent.
+>
+>Yi:
+>Don't blame yourself too much... At least you once brought peace to Penglai.
+>
+>Lear:
+>Has chaos emerged once again?
+>My attempt was indeed just a drop in the ocean of the infinite Tao.
+>
+>Yi:
+>This is not a trivial crisis. Would you like to save our fellow solarians once again with me?
+>
+>Lear:
+>Haha... I have left the mortal coil for far too long. These old bones of mine have become far too weary to do much of anything.
+>Moreover, I have stayed for too long in this limitless realm. I can no longer return to the present world.
+>
+>Yi:
+>That can happen? Then I better get moving. I don’t want to be trapped here.
+>It’s a shame, really... I still have so many questions for you.
+>
+>Lear:
+>May we meet again, under the auspices of the Great Tao.
+>If all that awaits is the void, why cling to a single idea?
+
+#### Enter the Great Tao
+Entering Anomalous Fusang Roots in the Lear’s Secret Tomb will take Yi to the last meeting with Lear before his departure.
+
+>Lear:
+>Fellow disciple. I’m glad I get to see you before I depart.
+>
+>Yi:
+>Depart? I thought you couldn’t return to the present world?
+>
+>Lear:
+>My departure refers to a returning to the Great Tao.
+>Ever since that idea emerged, my mind has been growing fainter.
+>
+>Yi:
+>It might not be appropriate for me to say this, but... I can’t help but envy your... release.
+>
+>Lear:
+>Hah, I see the confusion in your heart has yet to dissipate.
+>My time here is about to reach its end. Would you humor me and let me share with you a time-worn fable?
+>
+>Yi:
+>Of course. You have my undivided attention.
+>
+>Lear:
+>Long, long ago, demonic spirits roamed the lands, putting people’s lives in dire straits.
+>Among them, a demonic dog, sympathizing with the plight of the people, decided to find the legendary demon-slaying sword.
+>Along the way, he gained three extraordinary partners.
+>An old snake spirit with unparalleled wisdom...
+>A fearless tiger beast, known for his boundless courage...
+>And a charismatic demon fox, known for her ability to charm any living creature.
+>After countless trials and hardships, they finally retrieved the legendary sword.
+>However, that’s when this story takes a turn.
+>
+>Yi:
+>They got rid of the demons, but peace did not prevail.
+>
+>Lear:
+>Haha, you are well learned, my friend.
+>The old snake, caught up in the infinite ocean of knowledge, lost his way. The brave tiger, having forgotten their purpose, abused his power.
+>And the beautiful fox, jealous of all the attention and love the dog received, slowly began to harbor wicked thoughts.
+>They had become the new demon menaces, so the demonic dog had no choice but to dispose of his former comrades.
+>However, as he cut them down one after the other...
+>That’s when it dawned on him. This only made him the most powerful demon alive.
+>Do you think he made the right decision, fellow disciple?
+>
+>(Dialogue Choice 1)
+>
+>Yi:
+>For the sake of all sentient beings, that was the only option he had.
+>
+>Lear:
+>I used to share in that belief, but...
+>
+>(Dialogue Choice 2)
+>
+>Yi:
+>I... I don’t know.
+>
+>Lear:
+>Neither does this old fool.
+>
+>(After Choice)
+>
+>Lear:
+>What is justice? Good and evil, black and white... It all depends on the eye of the beholder.
+>Before the Great Tao, right or wrong may not matter at all.
+>
+>Yi:
+>Are you that demonic dog?
+>
+>Lear:
+>Why couldn’t it be you?
+>Amidst this pitch-black sky, we seek a sun that can illuminate the entire universe.
+>...But at what cost? What have we become?
+>
+>Yi:
+>...What am I supposed to do?
+>
+>Lear:
+>Fret not. The answer is already in your heart.
+>My time is up, Yi. I must bid farewell.
+>
+>Yi:
+>You know my name? Wait! I still have questions for you...
+>
+>Lear:
+>Until next time, among the Great Tao.
+>Pity... How I would’ve loved to see Penglai once more...
+
 ## Trivia
 
 - The finger gestures Lear and Yi use to summon a sword made of Qi is inspired by common spell-casting gesture (劍指 - sword fingers) in Taoism, used to represent the "sword" that can kill evil things.
