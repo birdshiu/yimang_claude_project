@@ -1,7 +1,6 @@
 ---
 title: Tianhuo Research Institute
 source: https://ninesols.wiki.gg/wiki/Tianhuo_Research_Institute
-revision: 2026-07-12T20:26:08Z
 license: CC BY-SA (wiki.gg)
 ---
 

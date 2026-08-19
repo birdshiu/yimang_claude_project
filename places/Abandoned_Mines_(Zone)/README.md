@@ -1,7 +1,6 @@
 ---
 title: Abandoned Mines (Zone)
 source: https://ninesols.wiki.gg/wiki/Abandoned_Mines_(Zone)
-revision: 2026-05-08T16:15:38Z
 license: CC BY-SA (wiki.gg)
 ---
 

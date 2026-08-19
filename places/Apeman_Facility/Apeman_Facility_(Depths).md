@@ -1,7 +1,6 @@
 ---
 title: Apeman Facility (Depths)
 source: https://ninesols.wiki.gg/wiki/Apeman_Facility_(Depths)
-revision: 2026-06-17T09:51:17Z
 license: CC BY-SA (wiki.gg)
 ---
 

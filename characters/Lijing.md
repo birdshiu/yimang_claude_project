@@ -1,7 +1,6 @@
 ---
 title: Lijing
 source: https://ninesols.wiki.gg/wiki/Lijing
-revision: 2025-05-29T22:39:56Z
 license: CC BY-SA (wiki.gg)
 ---
 

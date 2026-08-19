@@ -1,7 +1,6 @@
 ---
 title: Empyrean District (Sanctum)
 source: https://ninesols.wiki.gg/wiki/Empyrean_District_(Sanctum)
-revision: 2026-05-14T22:56:36Z
 license: CC BY-SA (wiki.gg)
 ---
 

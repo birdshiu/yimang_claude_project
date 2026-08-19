@@ -1,7 +1,6 @@
 ---
 title: Nobility Hall
 source: https://ninesols.wiki.gg/wiki/Nobility_Hall
-revision: 2026-07-09T16:00:21Z
 license: CC BY-SA (wiki.gg)
 ---
 

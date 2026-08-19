@@ -1,7 +1,6 @@
 ---
 title: Jietong
 source: https://ninesols.wiki.gg/wiki/Jietong
-revision: 2026-06-04T18:32:52Z
 license: CC BY-SA (wiki.gg)
 ---
 

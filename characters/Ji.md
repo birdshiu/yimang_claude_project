@@ -1,7 +1,6 @@
 ---
 title: Ji
 source: https://ninesols.wiki.gg/wiki/Ji
-revision: 2026-06-11T11:29:22Z
 license: CC BY-SA (wiki.gg)
 ---
 

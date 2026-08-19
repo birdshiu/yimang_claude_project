@@ -1,7 +1,6 @@
 ---
 title: Grotto of Scriptures (Entry)
 source: https://ninesols.wiki.gg/wiki/Grotto_of_Scriptures_(Entry)
-revision: 2026-05-06T16:15:49Z
 license: CC BY-SA (wiki.gg)
 ---
 

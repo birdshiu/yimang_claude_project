@@ -1,7 +1,6 @@
 ---
 title: Prison
 source: https://ninesols.wiki.gg/wiki/Prison
-revision: 2026-07-19T19:23:05Z
 license: CC BY-SA (wiki.gg)
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Agricultural Zone
 source: https://ninesols.wiki.gg/wiki/Agricultural_Zone
-revision: 2026-05-08T16:15:31Z
 license: CC BY-SA (wiki.gg)
 ---
 

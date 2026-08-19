@@ -1,7 +1,6 @@
 ---
 title: Home Sweet Home Ending
 source: https://ninesols.wiki.gg/wiki/Home_Sweet_Home_Ending
-revision: 2026-06-06T02:41:53Z
 license: CC BY-SA (wiki.gg)
 ---
 

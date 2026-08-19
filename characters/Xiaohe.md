@@ -1,7 +1,6 @@
 ---
 title: Xiaohe
 source: https://ninesols.wiki.gg/wiki/Xiaohe
-revision: 2026-06-05T01:05:25Z
 license: CC BY-SA (wiki.gg)
 ---
 

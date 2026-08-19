@@ -1,7 +1,6 @@
 ---
 title: Limitless Realm
 source: https://ninesols.wiki.gg/wiki/Limitless_Realm
-revision: 2026-05-08T16:16:44Z
 license: CC BY-SA (wiki.gg)
 ---
 

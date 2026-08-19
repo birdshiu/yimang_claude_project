@@ -1,7 +1,6 @@
 ---
 title: New Kunlun Control Hub
 source: https://ninesols.wiki.gg/wiki/New_Kunlun_Control_Hub
-revision: 2026-06-17T10:52:30Z
 license: CC BY-SA (wiki.gg)
 ---
 

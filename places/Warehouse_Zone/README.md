@@ -1,7 +1,6 @@
 ---
 title: Warehouse Zone
 source: https://ninesols.wiki.gg/wiki/Warehouse_Zone
-revision: 2026-05-08T16:15:33Z
 license: CC BY-SA (wiki.gg)
 ---
 

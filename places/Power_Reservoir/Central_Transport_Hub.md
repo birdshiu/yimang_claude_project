@@ -1,7 +1,6 @@
 ---
 title: Central Transport Hub
 source: https://ninesols.wiki.gg/wiki/Central_Transport_Hub
-revision: 2026-07-19T17:32:04Z
 license: CC BY-SA (wiki.gg)
 ---
 

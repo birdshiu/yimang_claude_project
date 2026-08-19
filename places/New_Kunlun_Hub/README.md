@@ -1,7 +1,6 @@
 ---
 title: New Kunlun Hub
 source: https://ninesols.wiki.gg/wiki/New_Kunlun_Hub
-revision: 2026-05-08T16:15:28Z
 license: CC BY-SA (wiki.gg)
 ---
 

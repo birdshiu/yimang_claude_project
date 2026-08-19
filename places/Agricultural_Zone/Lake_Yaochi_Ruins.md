@@ -1,7 +1,6 @@
 ---
 title: Lake Yaochi Ruins
 source: https://ninesols.wiki.gg/wiki/Lake_Yaochi_Ruins
-revision: 2026-06-17T10:29:04Z
 license: CC BY-SA (wiki.gg)
 ---
 

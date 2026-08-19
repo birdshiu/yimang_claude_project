@@ -1,7 +1,6 @@
 ---
 title: Yanlao
 source: https://ninesols.wiki.gg/wiki/Yanlao
-revision: 2026-07-23T21:39:26Z
 license: CC BY-SA (wiki.gg)
 ---
 

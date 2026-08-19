@@ -1,7 +1,6 @@
 ---
 title: Empyrean District
 source: https://ninesols.wiki.gg/wiki/Empyrean_District
-revision: 2026-05-08T16:15:54Z
 license: CC BY-SA (wiki.gg)
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Shuanshuan
 source: https://ninesols.wiki.gg/wiki/Shuanshuan
-revision: 2026-06-05T02:50:42Z
 license: CC BY-SA (wiki.gg)
 ---
 

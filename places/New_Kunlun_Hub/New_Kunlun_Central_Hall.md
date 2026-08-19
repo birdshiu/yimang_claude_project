@@ -1,7 +1,6 @@
 ---
 title: New Kunlun Central Hall
 source: https://ninesols.wiki.gg/wiki/New_Kunlun_Central_Hall
-revision: 2026-06-17T09:18:53Z
 license: CC BY-SA (wiki.gg)
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Abandoned Mines (Location)
 source: https://ninesols.wiki.gg/wiki/Abandoned_Mines_(Location)
-revision: 2026-05-08T16:35:10Z
 license: CC BY-SA (wiki.gg)
 ---
 

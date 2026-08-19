@@ -1,7 +1,6 @@
 ---
 title: Ancient Stone Pillar
 source: https://ninesols.wiki.gg/wiki/Ancient_Stone_Pillar
-revision: 2026-07-17T20:35:16Z
 license: CC BY-SA (wiki.gg)
 ---
 

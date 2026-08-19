@@ -1,7 +1,6 @@
 ---
 title: 95th Livestock Pen
 source: https://ninesols.wiki.gg/wiki/95th_Livestock_Pen
-revision: 2026-06-17T09:11:15Z
 license: CC BY-SA (wiki.gg)
 ---
 

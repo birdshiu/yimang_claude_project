@@ -1,7 +1,6 @@
 ---
 title: Kuafu
 source: https://ninesols.wiki.gg/wiki/Kuafu
-revision: 2026-08-16T21:27:40Z
 license: CC BY-SA (wiki.gg)
 ---
 

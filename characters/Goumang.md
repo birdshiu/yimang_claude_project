@@ -1,7 +1,6 @@
 ---
 title: Goumang
 source: https://ninesols.wiki.gg/wiki/Goumang
-revision: 2026-07-24T18:16:06Z
 license: CC BY-SA (wiki.gg)
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Underground Cave
 source: https://ninesols.wiki.gg/wiki/Underground_Cave
-revision: 2026-06-17T09:09:07Z
 license: CC BY-SA (wiki.gg)
 ---
 

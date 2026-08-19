@@ -1,7 +1,6 @@
 ---
 title: Greenhouse
 source: https://ninesols.wiki.gg/wiki/Greenhouse
-revision: 2026-07-19T17:32:21Z
 license: CC BY-SA (wiki.gg)
 ---
 

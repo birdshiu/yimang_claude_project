@@ -1,7 +1,6 @@
 ---
 title: Research Institute
 source: https://ninesols.wiki.gg/wiki/Research_Institute
-revision: 2026-05-08T16:16:03Z
 license: CC BY-SA (wiki.gg)
 ---
 

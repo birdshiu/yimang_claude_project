@@ -1,7 +1,6 @@
 ---
 title: Jiequan
 source: https://ninesols.wiki.gg/wiki/Jiequan
-revision: 2026-08-13T06:32:29Z
 license: CC BY-SA (wiki.gg)
 ---
 

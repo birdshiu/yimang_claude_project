@@ -1,7 +1,6 @@
 ---
 title: Grotto of Scriptures (West)
 source: https://ninesols.wiki.gg/wiki/Grotto_of_Scriptures_(West)
-revision: 2026-05-08T16:35:59Z
 license: CC BY-SA (wiki.gg)
 ---
 

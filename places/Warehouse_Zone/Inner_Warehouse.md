@@ -1,7 +1,6 @@
 ---
 title: Inner Warehouse
 source: https://ninesols.wiki.gg/wiki/Inner_Warehouse
-revision: 2026-07-12T21:31:08Z
 license: CC BY-SA (wiki.gg)
 ---
 

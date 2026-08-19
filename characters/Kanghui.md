@@ -1,7 +1,6 @@
 ---
 title: Kanghui
 source: https://ninesols.wiki.gg/wiki/Kanghui
-revision: 2026-07-29T22:56:57Z
 license: CC BY-SA (wiki.gg)
 ---
 

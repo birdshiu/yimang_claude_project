@@ -1,7 +1,6 @@
 ---
 title: Shennong
 source: https://ninesols.wiki.gg/wiki/Shennong
-revision: 2026-06-11T08:51:28Z
 license: CC BY-SA (wiki.gg)
 ---
 

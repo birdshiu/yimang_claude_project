@@ -1,7 +1,6 @@
 ---
 title: Yinglong Canal
 source: https://ninesols.wiki.gg/wiki/Yinglong_Canal
-revision: 2026-06-17T10:41:27Z
 license: CC BY-SA (wiki.gg)
 ---
 

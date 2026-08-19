@@ -1,7 +1,6 @@
 ---
 title: Power Reservoir (Central)
 source: https://ninesols.wiki.gg/wiki/Power_Reservoir_(Central)
-revision: 2026-06-17T10:11:27Z
 license: CC BY-SA (wiki.gg)
 ---
 

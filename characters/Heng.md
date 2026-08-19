@@ -1,7 +1,6 @@
 ---
 title: Heng
 source: https://ninesols.wiki.gg/wiki/Heng
-revision: 2026-06-05T02:05:15Z
 license: CC BY-SA (wiki.gg)
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Abacus - Ruyi
 source: https://ninesols.wiki.gg/wiki/Abacus_-_Ruyi
-revision: 2026-06-05T01:27:28Z
 license: CC BY-SA (wiki.gg)
 ---
 

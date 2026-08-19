@@ -1,7 +1,6 @@
 ---
 title: Outer Warehouse
 source: https://ninesols.wiki.gg/wiki/Outer_Warehouse
-revision: 2026-07-23T21:37:16Z
 license: CC BY-SA (wiki.gg)
 ---
 

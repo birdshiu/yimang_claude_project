@@ -1,7 +1,6 @@
 ---
 title: Yi
 source: https://ninesols.wiki.gg/wiki/Yi
-revision: 2026-06-21T06:34:24Z
 license: CC BY-SA (wiki.gg)
 ---
 

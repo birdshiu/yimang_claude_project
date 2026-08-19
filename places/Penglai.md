@@ -1,7 +1,6 @@
 ---
 title: Penglai
 source: https://ninesols.wiki.gg/wiki/Penglai
-revision: 2026-06-12T11:29:19Z
 license: CC BY-SA (wiki.gg)
 ---
 

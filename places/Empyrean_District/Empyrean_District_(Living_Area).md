@@ -1,7 +1,6 @@
 ---
 title: Empyrean District (Living Area)
 source: https://ninesols.wiki.gg/wiki/Empyrean_District_(Living_Area)
-revision: 2026-05-24T18:43:12Z
 license: CC BY-SA (wiki.gg)
 ---
 

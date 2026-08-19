@@ -1,7 +1,6 @@
 ---
 title: Power Reservoir (East)
 source: https://ninesols.wiki.gg/wiki/Power_Reservoir_(East)
-revision: 2026-06-17T10:07:09Z
 license: CC BY-SA (wiki.gg)
 ---
 

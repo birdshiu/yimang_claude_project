@@ -1,7 +1,6 @@
 ---
 title: Shengwu Hall
 source: https://ninesols.wiki.gg/wiki/Shengwu_Hall
-revision: 2026-07-19T17:47:52Z
 license: CC BY-SA (wiki.gg)
 ---
 

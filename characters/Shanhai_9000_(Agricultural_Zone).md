@@ -1,7 +1,6 @@
 ---
 title: Shanhai 9000 (Agricultural Zone)
 source: https://ninesols.wiki.gg/wiki/Shanhai_9000_(Agricultural_Zone)
-revision: 2026-04-05T15:24:35Z
 license: CC BY-SA (wiki.gg)
 ---
 

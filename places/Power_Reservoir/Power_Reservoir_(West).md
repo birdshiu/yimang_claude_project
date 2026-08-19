@@ -1,7 +1,6 @@
 ---
 title: Power Reservoir (West)
 source: https://ninesols.wiki.gg/wiki/Power_Reservoir_(West)
-revision: 2026-06-17T10:13:06Z
 license: CC BY-SA (wiki.gg)
 ---
 

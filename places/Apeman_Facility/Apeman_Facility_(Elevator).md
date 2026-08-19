@@ -1,7 +1,6 @@
 ---
 title: Apeman Facility (Elevator)
 source: https://ninesols.wiki.gg/wiki/Apeman_Facility_(Elevator)
-revision: 2026-06-17T09:43:50Z
 license: CC BY-SA (wiki.gg)
 ---
 

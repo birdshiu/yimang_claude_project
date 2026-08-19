@@ -1,7 +1,6 @@
 ---
 title: Shanhai 1000 (Grotto of Scriptures)
 source: https://ninesols.wiki.gg/wiki/Shanhai_1000_(Grotto_of_Scriptures)
-revision: 2026-04-05T17:30:25Z
 license: CC BY-SA (wiki.gg)
 ---
 

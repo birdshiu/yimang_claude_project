@@ -1,7 +1,6 @@
 ---
 title: Chien
 source: https://ninesols.wiki.gg/wiki/Chien
-revision: 2026-07-12T20:27:08Z
 license: CC BY-SA (wiki.gg)
 ---
 

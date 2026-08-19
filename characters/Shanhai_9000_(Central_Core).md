@@ -1,7 +1,6 @@
 ---
 title: Shanhai 9000 (Central Core)
 source: https://ninesols.wiki.gg/wiki/Shanhai_9000_(Central_Core)
-revision: 2026-04-05T15:24:16Z
 license: CC BY-SA (wiki.gg)
 ---
 

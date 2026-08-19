@@ -1,7 +1,6 @@
 ---
 title: Cortex Center
 source: https://ninesols.wiki.gg/wiki/Cortex_Center
-revision: 2026-05-08T16:35:31Z
 license: CC BY-SA (wiki.gg)
 ---
 

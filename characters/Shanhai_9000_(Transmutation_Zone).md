@@ -1,7 +1,6 @@
 ---
 title: Shanhai 9000 (Transmutation Zone)
 source: https://ninesols.wiki.gg/wiki/Shanhai_9000_(Transmutation_Zone)
-revision: 2026-06-03T03:44:47Z
 license: CC BY-SA (wiki.gg)
 ---
 

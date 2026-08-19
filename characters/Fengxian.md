@@ -1,7 +1,6 @@
 ---
 title: Fengxian
 source: https://ninesols.wiki.gg/wiki/Fengxian
-revision: 2026-07-17T21:12:39Z
 license: CC BY-SA (wiki.gg)
 ---
 

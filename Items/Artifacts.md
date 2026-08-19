@@ -1,7 +1,6 @@
 ---
 title: Shaman
 source: https://ninesols.wiki.gg/wiki/Shaman
-revision: 2026-06-05T02:18:08Z
 license: CC BY-SA (wiki.gg)
 ---
 

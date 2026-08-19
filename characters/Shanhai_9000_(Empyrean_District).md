@@ -1,7 +1,6 @@
 ---
 title: Shanhai 9000 (Empyrean District)
 source: https://ninesols.wiki.gg/wiki/Shanhai_9000_(Empyrean_District)
-revision: 2026-04-05T15:25:22Z
 license: CC BY-SA (wiki.gg)
 ---
 

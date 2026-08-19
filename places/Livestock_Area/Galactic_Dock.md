@@ -1,7 +1,6 @@
 ---
 title: Galactic Dock
 source: https://ninesols.wiki.gg/wiki/Galactic_Dock
-revision: 2026-06-17T09:02:19Z
 license: CC BY-SA (wiki.gg)
 ---
 

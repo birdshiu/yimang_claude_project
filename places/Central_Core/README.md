@@ -1,7 +1,6 @@
 ---
 title: Central Core
 source: https://ninesols.wiki.gg/wiki/Central_Core
-revision: 2026-05-08T16:15:50Z
 license: CC BY-SA (wiki.gg)
 ---
 

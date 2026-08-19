@@ -1,7 +1,6 @@
 ---
 title: Dream
 source: https://ninesols.wiki.gg/wiki/Dream
-revision: 2026-07-09T15:28:36Z
 license: CC BY-SA (wiki.gg)
 ---
 

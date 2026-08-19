@@ -1,7 +1,6 @@
 ---
 title: Apeman Facility (Monitoring)
 source: https://ninesols.wiki.gg/wiki/Apeman_Facility_(Monitoring)
-revision: 2026-06-17T09:39:29Z
 license: CC BY-SA (wiki.gg)
 ---
 

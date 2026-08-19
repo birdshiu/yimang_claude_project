@@ -1,7 +1,6 @@
 ---
 title: Lady Ethereal
 source: https://ninesols.wiki.gg/wiki/Lady_Ethereal
-revision: 2026-06-05T02:56:53Z
 license: CC BY-SA (wiki.gg)
 ---
 

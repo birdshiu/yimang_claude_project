@@ -1,7 +1,6 @@
 ---
 title: Fortune Teller Machine
 source: https://ninesols.wiki.gg/wiki/Fortune_Teller_Machine
-revision: 2026-04-07T23:25:48Z
 license: CC BY-SA (wiki.gg)
 ---
 

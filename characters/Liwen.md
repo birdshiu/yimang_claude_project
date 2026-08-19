@@ -1,7 +1,6 @@
 ---
 title: Liwen
 source: https://ninesols.wiki.gg/wiki/Liwen
-revision: 2026-03-12T12:59:24Z
 license: CC BY-SA (wiki.gg)
 ---
 

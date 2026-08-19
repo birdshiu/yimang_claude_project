@@ -1,7 +1,6 @@
 ---
 title: Tiandao Research Center
 source: https://ninesols.wiki.gg/wiki/Tiandao_Research_Center
-revision: 2026-05-21T20:14:10Z
 license: CC BY-SA (wiki.gg)
 ---
 

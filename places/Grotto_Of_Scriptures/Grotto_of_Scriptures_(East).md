@@ -1,7 +1,6 @@
 ---
 title: Grotto of Scriptures (East)
 source: https://ninesols.wiki.gg/wiki/Grotto_of_Scriptures_(East)
-revision: 2026-05-24T18:43:35Z
 license: CC BY-SA (wiki.gg)
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Factory (Machine Room)
 source: https://ninesols.wiki.gg/wiki/Factory_(Machine_Room)
-revision: 2026-07-19T18:01:02Z
 license: CC BY-SA (wiki.gg)
 ---
 

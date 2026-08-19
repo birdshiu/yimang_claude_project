@@ -1,7 +1,6 @@
 ---
 title: Empyrean District (Passages)
 source: https://ninesols.wiki.gg/wiki/Empyrean_District_(Passages)
-revision: 2026-05-14T22:40:33Z
 license: CC BY-SA (wiki.gg)
 ---
 

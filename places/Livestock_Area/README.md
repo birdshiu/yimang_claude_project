@@ -1,7 +1,6 @@
 ---
 title: Livestock Area
 source: https://ninesols.wiki.gg/wiki/Livestock_Area
-revision: 2026-05-08T16:15:26Z
 license: CC BY-SA (wiki.gg)
 ---
 

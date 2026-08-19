@@ -1,7 +1,6 @@
 ---
 title: Factory (Production Area)
 source: https://ninesols.wiki.gg/wiki/Factory_(Production_Area)
-revision: 2026-07-19T18:50:33Z
 license: CC BY-SA (wiki.gg)
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Shanhai 9000
 source: https://ninesols.wiki.gg/wiki/Shanhai_9000
-revision: 2026-06-05T01:32:40Z
 license: CC BY-SA (wiki.gg)
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Apeman Facility
 source: https://ninesols.wiki.gg/wiki/Apeman_Facility
-revision: 2026-05-08T16:15:27Z
 license: CC BY-SA (wiki.gg)
 ---
 

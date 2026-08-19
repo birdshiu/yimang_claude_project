@@ -1,7 +1,6 @@
 ---
 title: Livestock Harvesting Platform
 source: https://ninesols.wiki.gg/wiki/Livestock_Harvesting_Platform
-revision: 2026-06-17T09:14:00Z
 license: CC BY-SA (wiki.gg)
 ---
 

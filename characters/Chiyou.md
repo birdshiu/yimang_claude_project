@@ -1,7 +1,6 @@
 ---
 title: Chiyou
 source: https://ninesols.wiki.gg/wiki/Chiyou
-revision: 2026-06-13T18:08:43Z
 license: CC BY-SA (wiki.gg)
 ---
 An ancient genetically modified weapon that developed self-awareness for unknown reasons. A self-titled scholar, it has wandered through New Kunlun for many years, possessing a variety of goods with obscure origins. **Chiyou** (traditional Chinese: 蚩尤; pinyin: *Chīyóu*) is a side character who acts as a travelling merchant. Chiyou is a non-violent and self-titled scholar. Having wandered through New Kunlun for many years, he possesses a variety of goods with obscure origins.

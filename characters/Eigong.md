@@ -1,7 +1,6 @@
 ---
 title: Eigong
 source: https://ninesols.wiki.gg/wiki/Eigong
-revision: 2026-08-09T15:24:55Z
 license: CC BY-SA (wiki.gg)
 ---
 

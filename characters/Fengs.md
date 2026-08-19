@@ -1,7 +1,6 @@
 ---
 title: Fengs
 source: https://ninesols.wiki.gg/wiki/Fengs
-revision: 2026-06-13T19:53:16Z
 license: CC BY-SA (wiki.gg)
 ---
 > **Note:**

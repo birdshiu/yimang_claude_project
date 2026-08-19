@@ -1,7 +1,6 @@
 ---
 title: Lear
 source: https://ninesols.wiki.gg/wiki/Lear
-revision: 2026-06-08T17:26:41Z
 license: CC BY-SA (wiki.gg)
 ---
 

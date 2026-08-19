@@ -1,7 +1,6 @@
 ---
 title: Four Seasons Pavilion
 source: https://ninesols.wiki.gg/wiki/Four_Seasons_Pavilion
-revision: 2026-06-17T10:00:10Z
 license: CC BY-SA (wiki.gg)
 ---
 

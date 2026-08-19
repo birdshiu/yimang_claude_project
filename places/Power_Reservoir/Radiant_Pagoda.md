@@ -1,7 +1,6 @@
 ---
 title: Radiant Pagoda
 source: https://ninesols.wiki.gg/wiki/Radiant_Pagoda
-revision: 2026-06-17T10:22:10Z
 license: CC BY-SA (wiki.gg)
 ---
 

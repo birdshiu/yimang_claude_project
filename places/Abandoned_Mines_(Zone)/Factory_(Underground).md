@@ -1,7 +1,6 @@
 ---
 title: Factory (Underground)
 source: https://ninesols.wiki.gg/wiki/Factory_(Underground)
-revision: 2026-07-19T18:58:33Z
 license: CC BY-SA (wiki.gg)
 ---
 

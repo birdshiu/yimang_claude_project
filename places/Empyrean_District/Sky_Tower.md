@@ -1,7 +1,6 @@
 ---
 title: Sky Tower
 source: https://ninesols.wiki.gg/wiki/Sky_Tower
-revision: 2026-05-24T18:42:43Z
 license: CC BY-SA (wiki.gg)
 ---
 
