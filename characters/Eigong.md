@@ -110,6 +110,212 @@ In an instant, the tables turn: although Yi managed to land a fatal blow on Eigo
 
 With her final actions, Eigong ensures that no solarian aboard New Kunlun can escape exposure to the mutated Tianhuo. Consequently, Yi is forced to destroy the Primordial Roots, as there is no other way to end the disaster. Knowing that his choice will also end his own life, Yi says his final farewells to his remaining loved ones - Kuafu and Shuanshuan. As Yi ends his farewells, the Primordial Roots' core completes its transformation into a colossal, sun-like entity; it opens its eye and peers down at Yi. Without hesitation, Yi aims and detonates the Rhizomatic Arrow at the mutated core, obliterating it, New Kunlun, and what remains of the solarian race.
 
+
+## Dialogue
+### Eigong's Soulscape
+>Yi:
+>So this is where you were hiding. You weren't easy to find.
+>
+>Eigong:
+>I really didn't expect to see you again, Yi.
+>I'm sure you didn't enter my Soulscape just to say hello.
+>
+>Yi:
+>No, I'm here to patch up my regrets.
+>Have you forgotten already? We were separated in such a hurry, I didn't have time to properly say goodbye to my old mentor.
+>
+>Eigong:
+>Hah, what a sentimental disciple you are.
+>It has been... five hundred and nine years since we last parted, hasn't it?
+>Back then, if I was able to convince you, things might not have developed this way.
+>
+>Yi:
+>Spare me the empty speculation. If we could go back in time, I would simply behead you with my sword.
+>
+>Eigong:
+>I've watched you murder the Sols one after the other. I don't even recognize you any more behind your bloodlust.
+>You were my favorite student. So curious about the world and eager to learn science... Don't you remember?
+>You came up with the Eternal Cauldron, and brought hope to all solarians.
+>
+>Yi:
+>That hope should not have been based on lies!
+>People have a right to the truth. That's what you taught me.
+>You were the one who betrayed everything you believed in.
+>
+>Eigong:
+>Wrong.
+>As a scientist, I knew from the very beginning that it was important to solve problems in a practical manner.
+>Truth and lies mean nothing compared to a solarian's life.
+>Forgive me for asking, but do you think Tianhuo will just disappear once you have taken all the Sol Seals?
+>Or do you plan on waking everyone up, just to die together back in Penglai?
+>
+>(Dialogue Choice 1)
+>
+>Yi:
+>Overthrowing you and the Council is a start.
+>
+>Eigong:
+>And you are sure this won't just lead to another disaster?
+>
+>(Dialogue Choice 2)
+>
+>Yi:
+>I believe there are things more important than mere survival.
+>
+>Eigong:
+>Like what? What could be more important than staying alive?
+>Without life, we all return to nothingness.
+>
+>(After Choice)
+>
+>Eigong:
+>I have indeed made mistakes in the past. That's why I spent the last few centuries trying to make amends.
+>Right now, I am the only one who can make things right. No matter how much you hate me, this is an indisputable fact.
+>
+>Yi:
+>...You're not in a position to say any of that.
+>
+>Eigong:
+>Did that strike a nerve? That's only because deep down, you know I'm right.
+>Yi, are you doing this on behalf of all solarians, or is this a personal vendetta?
+>
+>(Dialogue Choice 1)
+>
+>Yi:
+>Don't talk like you know me!
+>
+>Eigong:
+>Deny it all you like, but the mentor always has a handle over the student.
+>
+>(Dialogue Choice 2)
+>
+>Yi:
+>...
+>
+>(After Choice)
+>
+>Eigong:
+>I don't think there's any meaning in continuing this idle chatter.
+>
+>Yi:
+>I agree. Draw your sword. I won't lose to you this time.
+>
+>Eigong:
+>I admire your confidence, but don't forget: this is my Soulscape.
+>Do you recall the first key point from the Fangshi Art of War?
+>
+>
+>Yi:
+>...All warfare is based on deception.
+>
+>Eigong:
+>Correct. You have always been an excellent pupil.
+>I seized control of your nerve centers the moment you entered this realm.
+>
+>Yi:
+>You...! Even I didn't think... you'd pull such a dirty trick...
+>
+>Eigong:
+>In fact... I was just thinking about how I would obtain the permissions to usher in the new era.
+>The heavens must have sent you to assist me, and for that, you have my gratitude.
+>
+>Yi:
+>You... planned this... from the start...!
+>So then, those mutants... No way...
+>
+>
+>Eigong:
+>There were many accidents along the way, but I finally understand the purpose of it all.
+>Everything, including your betrayal, ended up working in my favor.
+>Sleep peacefully, my child, for this nightmare is about to end.
+
+### Before Boss Fight
+Upon entering her boss room.
+
+>Eigong:
+>You're up early. I thought you would sleep much longer.
+>
+>Yi:
+>I realized that this really isn't the time for a nap.
+>
+>Eigong:
+>Shame. Why return to this pitiful place when you can welcome a whole new world in your dreams?
+>
+>Yi:
+>A whole new world? I don't care what it is you're trying to do, but you better stop right now.
+>
+>Eigong:
+>Why?
+>You are about to witness the liberation of Fusang. This is our destiny.
+>We will soon devour the fruit that fate has provided for us.
+>We have waited too long... too long for this moment.
+>
+>Yi:
+>You've gone insane...
+>
+>Eigong:
+>Insane? I found the truth and unlocked immortality! How can you not fathom the significance of this achievement?
+>
+>Yi:
+>You're right, I can't. I don't understand why you would make the same mistake over and over again.
+>Transforming solarians into those mutants can't be the answer!
+>
+>Eigong:
+>Prophets always have to beat a lonely path... Never mind, you'll thank me in time. You and everyone else.
+>Since the dawn of our race,
+>solarians were but stupid beasts before the whims of fate,
+>endlessly pursuing our own tails.
+>You should celebrate, because we're about to break out of this cycle, and enter the realm of the immortal.
+>
+>Yi:
+>And you think this is what will free us?
+>I'm not going to let you have your way.
+>
+>Eigong:
+>How extremely cruel of you...
+>I hoped that by trapping you in your dreams, I could avoid this confrontation.
+>No mentor can bear to end any of their students' lives.
+>Don't make me do it twice.
+
+### Home Sweet Home Ending
+After defeating Eigong in the Home Sweet Home Ending.
+
+>Eigong:
+>...As your mentor, I have to admit... You've improved a lot.
+>There was no hesitation between your movements. Your determination was in full show...
+>...Yi, you were supposed to be my greatest achievement.
+>
+>Yi:
+>I am. That's why I've been fighting to stop you.
+>
+>Eigong:
+>...Hah, I hope you're right... The real enemy... never disappeared...
+>I leave it to you... The fate of all solarians...
+
+### Shooting Star Ending
+After defeating Eigong in the Shooting Star Ending.
+
+>Eigong:
+>...As your mentor, I have to admit... You've improved a lot.
+>You moved with grace and showed no trace of fear...
+>...Are you not scared, Yi? Knowing that everything might turn to dust...
+>
+>Yi:
+>I am scared.
+>But I have also learned to accept failure.
+>
+>Eigong:
+>...Hah, you didn't learn that from me...
+>It's almost time...
+>Thank you for joining me as we bring an end to this era...
+>It seems not even you can stop the inexorable wheel of history...
+>
+>Yi:
+>No, stop!
+>
+>Eigong:
+>Solarians will last for ever and ever... A shining beacon of the universe!
+
 ## Trivia
 
 ### Gameplay
